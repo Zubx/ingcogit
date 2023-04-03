@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Stok Table</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/4.9.3/css/tabulator.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/4.9.3/js/tabulator.min.js"></script>
+  </head>
+  <body>
+    <table id="stok-table">
+      <thead>
+        <tr>
+          <th>SKU</th>
+          <th>Name</th>
+          <th>Flexo</th>
+          <th>Tangerang</th>
+          <th>Glodok</th>
+          <th>Karawang</th>
+          <th>Surabaya</th>
+          <th>Sisa Online</th>
+          <th>Buffer and XD</th>
+          <th>Total yang bisa dijual</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+
+    <script>
+      var table = new Tabulator("#stok-table", {
+        pagination: "local",
+        paginationSize: 1000,
+        layout: "fitData",
+        columns: [
+          { title: "SKU", field: "SKU", width: 150 },
+          { title: "Name", field: "Name", width: 300 },
+          { title: "Flexo", field: "Flexo", width: 100 },
+          { title: "Tangerang", field: "Tangerang", width: 100 },
+          { title: "Glodok", field: "Glodok", width: 100 },
+          { title: "Karawang", field: "Karawang", width: 100 },
+          { title: "Surabaya", field: "Surabaya", width: 100 },
+          { title: "Sisa Online", field: "Sisa Online", width: 120 },
+          { title: "Buffer and XD", field: "Buffer and XD", width: 120 },
+          { title: "Total yang bisa dijual", field: "Total yang bisa dijual", width: 200 },
+        ],
+      });
+
+      fetch("stok.csv")
+        .then(function (response) {
+          return response.text();
+        })
+        .then(function (data) {
+          var rows = data.split("\n");
+          var rowData = [];
+          for (var i = 1; i < rows.length; i++) {
+            var row = rows[i].split(",");
+            if (row.length == table.getColumns().length) {
+              var dataItem = {};
+              for (var j = 0; j < row.length; j++) {
+                dataItem[table.getColumns()[j].getField()] = row[j];
+              }
+              rowData.push(dataItem);
+            }
+          }
+          table.setData(rowData);
+        });
+    </script>
+  </body>
+</html>
