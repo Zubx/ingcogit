@@ -1,20 +1,20 @@
 SKU,Name,Flexo,Tangerang,Glodok,Karawang,Surabaya,Sisa Online,buffer and XD,Total yang bisa dijual
 AAC1408,Mini Air Compressor (DC 12V) INGCO AAC1408 - Pompa Kompresor Mini Ban Mobil,17,10,0,2,46,0,2,75
-AB4018,Aspirator Blower (3.0 m³/min) INGCO AB4018 - Peniup/Penghisap Angin,16,57,0,2,73,1,7,149
+AB4018,Aspirator Blower (3.0 m³/min) INGCO AB4018 - Peniup/Penghisap Angin,15,55,0,2,73,1,8,146
 AB4018-SP-13,Rotor for AB4018-SP-13,0,2,0,0,1,0,0,3
 AB4018-SP-16,Stator for AB4018-SP-16,0,2,0,0,1,0,0,3
 AB4018-SP-19,Switch for AB4018-SP-19,0,3,0,0,2,0,0,5
 AB4018-SP-25,Carbon Brush for AB4018-SP-25,0,7,0,0,2,0,0,9
-AB8008,Aspirator Blower INDUSTRIAL (4.5 m³/min) INGCO AB8008 - Peniup Angin Debu,11,20,0,2,36,0,0,69
+AB8008,Aspirator Blower INDUSTRIAL (4.5 m³/min) INGCO AB8008 - Peniup Angin Debu,11,18,0,2,36,0,2,67
 AB8008-SP-4,Carbon Brush for AB8008-SP-4,0,0,0,0,0,0,0,0
 AB8008-SP-6,Stator for AB8008,0,0,0,0,0,0,0,0
 AB8008-SP-8,Rotor for AB8008,0,0,0,0,0,0,0,0
-ABG031-3,Air Blow Gun (16 mm) INGCO ABG031-3 Semprotan Duster Tiup Tembakan Peniup Angin,3,42,3,2,36,22,0,108
-ABG081-3,Air Blow Gun (80 mm) INGCO ABG081-3 Semprotan Duster Tiup Peniup Angin,0,72,5,4,32,0,1,113
-ABH10601,Screwdriver Bit Holder (60 mm) INGCO ABH10601 Pegangan Bor Mata Obeng 60mm,14,24,0,2,58,0,0,98
-ABN10301-3,Air Brad Nailer (10-30mm) INGCO ABN10301-3 Paku Tembak Angin Pneumatic,11,60,0,2,79,0,0,152
+ABG031-3,Air Blow Gun (16 mm) INGCO ABG031-3 Semprotan Duster Tiup Tembakan Peniup Angin,3,36,3,2,36,22,0,102
+ABG081-3,Air Blow Gun (80 mm) INGCO ABG081-3 Semprotan Duster Tiup Peniup Angin,0,69,5,4,32,0,1,110
+ABH10601,Screwdriver Bit Holder (60 mm) INGCO ABH10601 Pegangan Bor Mata Obeng 60mm,14,23,0,2,58,0,0,97
+ABN10301-3,Air Brad Nailer (10-30mm) INGCO ABN10301-3 Paku Tembak Angin Pneumatic,11,59,0,2,79,0,0,151
 ABN10301-3-SP-D,Main Piston for ABN10301,0,0,0,0,0,0,0,0
-ABN15501,Air Brad Nailer (15-50 mm) INGCO ABN15501 - Mesin Alat Paku Tembak Angin Pneumatic,15,28,0,2,11,8,0,64
+ABN15501,Air Brad Nailer (15-50 mm) INGCO ABN15501 - Mesin Alat Paku Tembak Angin Pneumatic,15,27,0,2,11,8,0,63
 ABN15501-SP-19,O ring 21x3 for ABN15501-SP-19,0,0,0,0,0,0,0,0
 ABN15501-SP-20,Main Piston for ABN15501-SP-20,0,0,0,0,0,0,0,0
 ACN18641,Air Concrete Nailer (18-64 mm) INGCO ACN18641 - Mesin Alat Paku Tembak Angin Beton,0,0,0,0,0,0,1,0
@@ -38,8 +38,8 @@ ACN50401-SP-47,Spring Washer 4 for ACN50401-SP-47,0,0,0,0,0,0,0,0
 ACN50401-SP-5,Spring Washer 5 for ACN50401-SP-5,0,0,0,0,0,0,0,0
 AG10108-5,"Angle Grinder (VS 5""/125mm) INGCO AG10108-5 Mesin Gerinda Tangan Inch",39,28,3,2,1,12,5,85
 AG200018,"Angle Grinder (7""/180mm) INGCO AG200018 - Mesin Gerinda Gurinda Tangan Listrik 7 Inch Inci",0,0,0,0,1,1,1,2
-AG220018,"Angle Grinder (9""/230mm) INGCO AG220018 - Mesin Gerinda Gurinda Tangan Listrik 9 Inch Inci",3,5,0,0,1,1,1,10
-AG750282,"Angle Grinder (4""/100mm) INGCO AG750282 - Mesin Gerinda Tangan Listrik 4 Inch Inci",0,0,0,0,-130,0,135,-130
+AG220018,"Angle Grinder (9""/230mm) INGCO AG220018 - Mesin Gerinda Gurinda Tangan Listrik 9 Inch Inci",3,4,0,0,1,1,2,9
+AG750282,"Angle Grinder (4""/100mm) INGCO AG750282 - Mesin Gerinda Tangan Listrik 4 Inch Inci",0,0,0,0,3,0,0,3
 AG750282-SP-11/20,Gear for AG750282-SP-11/20,0,7,0,0,3,0,0,10
 AG750282-SP-25,Rotor for AG750282-SP-25,0,14,0,0,6,0,0,20
 AG750282-SP-32,Stator for AG750282-SP-32,0,8,0,0,4,0,0,12
@@ -48,69 +48,69 @@ AG750282-SP-38,Carbon Brush for AG750282-SP-38,0,14,0,0,1,0,0,15
 AG750282-SP-8,O-Ring dia 46X1 for AG750282,0,0,0,0,0,0,0,0
 AG750283-SP-23,Bearing 629 for AG750283,0,0,0,0,0,0,0,0
 AG750283-SP-26,Rotor for AG750283,0,0,0,0,0,0,0,0
-AG900285,"Angle Grinder (5""/125mm) INGCO AG900285 - Mesin Gerinda Gurinda Tangan Listrik 5 Inch",30,57,4,2,39,17,0,149
+AG900285,"Angle Grinder (5""/125mm) INGCO AG900285 - Mesin Gerinda Gurinda Tangan Listrik 5 Inch",30,55,4,2,39,17,2,147
 AH1151-3,Spiral Air Hose (15 M) INGCO AH1151-3 - Selang Angin Kompresor Recoil,79,184,0,3,75,23,0,364
-AHM008,Auto-Dark Welding Mask INGCO AHM008 - Topeng Kedok Helm Tukang Las Otomatis,0,39,0,0,-12,1,45,28
+AHM008,Auto-Dark Welding Mask INGCO AHM008 - Topeng Kedok Helm Tukang Las Otomatis,0,39,0,0,30,1,3,70
 AHPH5028,Pressure Hose (5m Quick Connector) INGCO AHPH5028 - Selang Jet Cleaner Washer Cuci Mobil Steam,0,0,0,0,3,1,0,4
 AHPH5028-SP-,O-RING for AHPH5028 SP,0,2,0,0,0,0,0,2
 AIW11222,Air Impact Wrench (1 Inch) INGCO AIW11222 Mesin Pembuka Baut Roda Truk,3,2,0,0,4,0,0,9
 AIW11223,"Air Impact Wrench (1"") INGCO AIW11223 - Kunci Sok Soket Socket Angin Pneumatic 1 Inch",15,17,0,2,4,6,0,44
 AIW11223-SP-13,Rotor for AIW11223-SP-13,0,1,0,0,1,0,0,2
-AIW12562,"Air Impact Wrench (1/2"") INGCO AIW12562 Sok Socket Buka Baut Pneumatic Angin",5,37,0,1,4,4,25,51
+AIW12562,"Air Impact Wrench (1/2"") INGCO AIW12562 Sok Socket Buka Baut Pneumatic Angin",5,37,0,1,28,4,1,75
 AIW12562-SP-22,Rotor for AIW12562-SP-22,0,2,0,0,1,0,0,3
 AIW341302,"Air Impact Wrench (3/4"") INGCO AIW341302 Kunci Sok Soket Angin Pneumatic Inch",3,4,0,0,9,0,0,16
 AIW341302-SP-13,Rotor for AIW341302-SP-13,0,1,0,0,1,0,0,2
 AKB0501,5-Pcs Die Grinder Accessory Set INGCO AKB0501 - Mata Gerinda Gurinda Botol Dadu Lurus,64,178,9,12,4,25,0,292
-AKD1075,7-Pcs Metal Drill Bits Set (2-6 mm) INGCO AKD1075 Paket Mata Bor Besi,3,10,0,3,35,0,1,51
-AKD1095,9-Pcs HSS Twist Drill Bits Set (2-10 mm) INGCO AKD1095 Paket Mata Bor Besi Kotak Plastik,1,0,2,0,60,30,0,93
+AKD1075,7-Pcs Metal Drill Bits Set (2-6 mm) INGCO AKD1075 Paket Mata Bor Besi,3,9,0,3,35,0,1,50
+AKD1095,9-Pcs HSS Twist Drill Bits Set (2-10 mm) INGCO AKD1095 Paket Mata Bor Besi Kotak Plastik,1,0,2,0,58,30,0,91
 AKD1251,25-Pcs M2 HSS Drill Bits Set (1-13 mm) INGCO AKD1251 - Paket Mata Bor Besi Heavy Duty Kotak Plastik,2,4,0,0,1,5,2,12
 AKD2052,5-Pcs SDS Plus Hammer Drill Bits (6-12 mm) INGCO AKD2052 Mata Bor Bobok Tembok Beton,13,56,3,2,54,0,0,128
 AKD2688,Drill Bits Display Box INGCO AKD2688 - Kotak Penyimpanan Mata Bor,0,0,0,0,0,0,0,0
 AKD3051,5-Pcs Masonry Drill Bits (4-5-6-8-10 mm) INGCO AKD3051 Mata Bor Tembok Beton,9,0,4,1,14,9,0,37
-AKD5058,5-Pcs Wood Drill Bits (4-10 mm) INGCO AKD5058 Paket Mata Bor Kayu Set,33,29,10,2,37,0,0,111
+AKD5058,5-Pcs Wood Drill Bits (4-10 mm) INGCO AKD5058 Paket Mata Bor Kayu Set,33,26,10,2,34,0,0,105
 AKD7058,5-Pcs Glass Drill Bits (4-10mm) INGCO AKD7058 - Mata Bor Kaca Granit,93,190,5,2,79,36,0,405
 AKD8088,8-Pcs Jig Saw Blades Set INGCO AKD8088 Paket Mata Gergaji Jigsaw Aluminium/Kayu/Besi,17,22,0,2,38,2,0,81
-AKDB1065,6-Pcs HSS Twist Drill Bits (2-3-4-5-6-8 mm) INGCO AKDB1065 Paket Mata Bor Besi,0,0,1,0,-160,-1,160,-160
+AKDB1065,6-Pcs HSS Twist Drill Bits (2-3-4-5-6-8 mm) INGCO AKDB1065 Paket Mata Bor Besi,0,0,1,0,0,-1,0,0
 AKDB1125,12-Pcs HSS Twist Drill Bits (2-8 mm) INGCO AKDB1125 Paket Mata Bor Besi Logam,0,0,0,0,0,0,4,0
 AKDB1195,19-Pcs HSS Twist Drill Bits (1-4.5-7.5-10mm) INGCO AKDB1195 Paket Mata Bor Besi,0,0,0,0,0,0,0,0
 AKDB2055,4-Pcs SDS Plus Hammer Drill Bits (6-10 mm) INGCO AKDB2055 Paket Mata Bor Bobok Tembok Beton,1,0,2,0,11,14,0,28
 AKDB3055,5-Pcs Masonry Drill Bits (4-5-6-8-10 mm) INGCO AKDB3055 - Mata Bor Tembok Beton,0,123,5,3,190,-1,1,320
 AKDB5055,5-Pcs Wood Drill Bits (3-8 mm) INGCO AKDB5055 Paket Mata Bor Kayu Set,3,0,1,2,0,0,0,6
-AKDL11601,16-Pcs All-Purpose Drill Bits Set INGCO AKDL11601 - Mata Bor Besi Tembok Kayu Metal Masonry Wood,6,0,1,1,29,0,0,37
+AKDL11601,16-Pcs All-Purpose Drill Bits Set INGCO AKDL11601 - Mata Bor Besi Tembok Kayu Metal Masonry Wood,6,0,1,1,28,0,0,36
 AKDL1201,12-Pcs Flat Wood Drill Bits (6-32mm) INGCO AKDL1201 Mata Bor Kayu Kipas Paddle,31,68,5,2,10,21,0,137
-AKDL51501,15-Pcs HSS Drill Bit Set (1-12 mm) INGCO AKDL51501 - Paket Mata Bor Besi Kotak Plastik,33,0,0,1,-6,3,13,31
+AKDL51501,15-Pcs HSS Drill Bit Set (1-12 mm) INGCO AKDL51501 - Paket Mata Bor Besi Kotak Plastik,33,0,0,1,6,3,1,43
 AKDL51502,15-Pcs M2 HSS Drill Bit Set (1-12 mm) INGCO AKDL51502 - Paket Mata Bor Besi Heavy Duty Kotak Plastik,36,103,3,2,22,21,0,187
 AKFS140102,5-Pcs Palm Sander Sheet INGCO AKFS140102 Isi Kertas Refill Amplas Kotak,120,390,0,4,155,27,0,696
 AKFS240101-1,5-Pcs Finishing Sander Sheet (90×231mm) INGCO AKFS240101-1 Kertas Amplas Halus Finish Kotak,67,189,0,4,57,20,0,337
 AKFS264115,5-Pcs Finishing Sander Sheet (115×264mm) INGCO AKFS264115 Kertas Amplas Halus Kotak,65,239,0,3,74,15,0,396
-AKHS702,7-Pcs Hole Saw Set (26-63 mm) INGCO AKHS702 Mata Bor Holesaw Lubang Bulat Lingkaran Kayu Pipa PVC,0,108,0,0,-16,0,70,92
+AKHS702,7-Pcs Hole Saw Set (26-63 mm) INGCO AKHS702 Mata Bor Holesaw Lubang Bulat Lingkaran Kayu Pipa PVC,0,108,0,0,44,0,10,152
 AKISD0201,2-Way Screwdriver Set (160mm PH2+SL6) INGCO AKISD0201 Obeng Arah Bolak Balik Plus-Min Minus Chrome,6,6,0,4,92,0,0,108
-AKISD0202,2-Way Stubby Screwdriver (PH2+SL6) INGCO AKISD0202 Obeng Cebol Mini Arah Bolak Balik Plus-Min Minus,15,266,0,11,169,0,0,461
-AKISD1208,13-in-1 Ratchet Screwdriver Set INGCO AKISD1208 Obeng Tekuk Ratcheting,0,0,0,0,-24,0,35,-24
+AKISD0202,2-Way Stubby Screwdriver (PH2+SL6) INGCO AKISD0202 Obeng Cebol Mini Arah Bolak Balik Plus-Min Minus,14,265,0,11,169,0,0,459
+AKISD1208,13-in-1 Ratchet Screwdriver Set INGCO AKISD1208 Obeng Tekuk Ratcheting,0,0,0,0,0,0,11,0
 AKMG2501,250-Pcs Mini Drill Accessory INGCO AKMG2501 Aksesoris Mata Tuner Bor Die Grinder Accessories,0,0,0,0,0,2,0,2
-AKRS125051,5-Pcs Orbital Sander Sheet (Ø125 mm) INGCO AKRS125051 - Kertas Amplas Bulat,0,40,0,4,41,10,0,95
+AKRS125051,5-Pcs Orbital Sander Sheet (Ø125 mm) INGCO AKRS125051 - Kertas Amplas Bulat,0,40,0,4,41,9,0,94
 AKRS150051,5-Pcs Orbital Sander Sheet (Ø150 mm) INGCO AKRS150051 - Kertas Amplas Bulat,5,23,0,2,60,10,0,100
 AKRT1201,12-Pcs Router Bits (6mm) INGCO AKRT1201 Mata Mesin Router Profil Profiling Profiler Kayu,3,0,0,1,0,0,0,4
-AKRT1211,12-Pcs Router Bits (8mm) INGCO AKRT1211 Mata Mesin Router Profiling Profiler Kayu,18,55,0,2,72,6,0,153
+AKRT1211,12-Pcs Router Bits (8mm) INGCO AKRT1211 Mata Mesin Router Profiling Profiler Kayu,18,54,0,2,71,6,0,151
 AKRT1221,12-Pcs Router Bits (12mm) INGCO AKRT1221 Mata Mesin Router Profiling Profiler Kayu,0,0,0,0,0,0,0,0
 AKSD08301,30-Pcs Screwdriver Bits Set INGCO AKSD08301 Paket Mata Bor Obeng Plus Minus,0,0,0,0,0,0,0,0
 AKSD68303,30-Pcs Impact Screwdriver Bits Set INGCO AKSD68303 - Mata Bor Obeng Plus Minus Getok Ketok,28,77,0,1,19,10,1,135
-AKSDFL1208,12-Pcs Flexible Screwdriver INGCO AKSDFL1208 - Obeng Fleksibel Bengkok Tekuk,14,88,0,4,70,7,0,183
+AKSDFL1208,12-Pcs Flexible Screwdriver INGCO AKSDFL1208 - Obeng Fleksibel Bengkok Tekuk,14,87,0,4,70,6,0,181
 AKTGS2061,Glue Gun Heat Stick (20cm) INGCO AKTGS2061 Refill Isi Lem Tembak Lilin Bakar Cair Panas,40,149,5,6,333,-1,0,532
 AKTMT1502,Oscillating Multi Tool Blade Set INGCO AKTMT1502 - Mata Mesin Oskilasi Serbaguna,15,18,0,0,40,8,0,81
 AMAN4501,Angle Spray Nozzle (45°) INGCO AMAN4501 - Semprotan Sprayer Sudut Jet Cleaner Pressure Washer,2,22,0,2,7,5,0,38
 AMFP4002,Snow Foam Lance (400mL) INGCO AMFP4002 - Jet Cleaner Pressure Washer Cannon Cuci Salju Mobil Motor,0,0,0,0,0,0,0,0
-AMHB2791,Horizontal Brush INGCO AMHB2791 - Sikat Gosok Cuci Karpet Mobil Jet Cleaner Pressure Washer,30,44,0,1,10,4,0,89
+AMHB2791,Horizontal Brush INGCO AMHB2791 - Sikat Gosok Cuci Karpet Mobil Jet Cleaner Pressure Washer,30,44,0,1,10,3,0,88
 AMN0831,3-Pcs Magnetic Hex Nut (8mm) INGCO AMN0831 Kunci Mata Bor Sok Roofing,99,411,9,11,47,64,0,641
 AMN1031,3-Pcs Magnetic Nut (10 mm) INGCO AMN1031 Adapter Converter Kunci Sok Mata Bor Roofing Rofing Rufing,70,411,9,10,44,13,0,557
-AMN1231,3-Pcs Magnetic Nut (12 mm) INGCO AMN1231 Adapter Converter Kunci Sok Mata Bor Roofing Rofing Rufing,79,474,10,11,62,10,0,646
-AMN365A01,3-Pcs Socket Adaptor (1/4-3/8-1/2) INGCO AMN365A01 - Driver Converter Sok Soket Hex Inch Inci,0,54,0,5,81,0,0,140
+AMN1231,3-Pcs Magnetic Nut (12 mm) INGCO AMN1231 Adapter Converter Kunci Sok Mata Bor Roofing Rofing Rufing,79,471,10,11,62,10,0,643
+AMN365A01,3-Pcs Socket Adaptor (1/4-3/8-1/2) INGCO AMN365A01 - Driver Converter Sok Soket Hex Inch Inci,0,53,0,5,81,0,0,139
 AMN65061,6-Pcs Magnetic Nut Set (6-12 mm) INGCO AMN65061 - Converter Kunci Sok Mata Bor Roofing Rofing Rufing,0,14,0,2,47,0,0,63
-AMPB251,Patio Brush INGCO AMPB251 - Sikat Bulat Gosok Cuci Lantai Semen Batu Jet Cleaner Pressure Washer,2,3,0,0,7,4,0,16
+AMPB251,Patio Brush INGCO AMPB251 - Sikat Bulat Gosok Cuci Lantai Semen Batu Jet Cleaner Pressure Washer,2,2,0,0,7,4,0,15
 AMSG028,Spray Gun (Quick Connector) INGCO AMSG028 - Semprotan Sprayer Nozzle Jet Cleaner Pressure Washer,0,2,0,0,8,0,0,10
-AMWB1781,Wheel Brush INGCO AMWB1781 - Sikat Gosok Cuci Velg Pelek Roda Ban Mobil Jet Cleaner Pressure Washer,19,10,0,0,20,1,0,50
+AMWB1781,Wheel Brush INGCO AMWB1781 - Sikat Gosok Cuci Velg Pelek Roda Ban Mobil Jet Cleaner Pressure Washer,19,10,0,0,20,0,0,49
 AMWH25031,"Magnetic Welding Holder (3"") INGCO AMWH25031 - Siku Magnet Las Arrow",1,4,4,0,6,5,0,20
-AMWH4001,4Pcs Mini Magnetic Welding Holder INGCO AMWH4001 Siku Magnet Las Arrow,43,29,0,2,10,12,12,96
+AMWH4001,4Pcs Mini Magnetic Welding Holder INGCO AMWH4001 Siku Magnet Las Arrow,43,29,0,2,22,12,0,108
 AMWH50041,"Magnetic Welding Holder (4"") INGCO AMWH50041 - Siku Magnet Las Arrow",80,193,3,3,22,13,0,314
 AMWH50042,"Magnetic Welding Holder (4"") INGCO AMWH50042 - Siku Magnet Las Arrow",40,127,3,4,28,10,0,212
 AMWH6001,Magnetic Welding Holder (6-in-1) INGCO AMWH6001 Siku Magnet Las Arrow,0,0,0,0,7,2,0,9
@@ -121,9 +121,9 @@ ANA01321,Concrete Nail (32 mm) INGCO ANA01321 - Isi Paku Tembak Beton Tembok,0,0
 ANA01381,Concrete Nail (38 mm) INGCO ANA01381 - Isi Paku Tembak Beton Tembok,0,0,0,0,6,1,1,7
 ANA01501,Concrete Nail (50 mm) INGCO ANA01501 Isi Refill Nailer Paku Tembak Beton Tembok Semen Nail Pneumatic,0,0,0,0,-1,0,0,-1
 ANA01641,Concrete Nail (64 mm) INGCO ANA01641 - Isi Paku Tembak Beton Tembok,29,88,0,2,20,9,12,148
-ANA18201,Brad Nail (F20) INGCO ANA18201 Refill Isi Brad Nailer Paku Tembak Angin/Listrik T F 20 mm,76,308,0,4,48,7,0,443
+ANA18201,Brad Nail (F20) INGCO ANA18201 Refill Isi Brad Nailer Paku Tembak Angin/Listrik T F 20 mm,76,306,0,4,48,7,0,441
 ANA18251,Brad Nail (F25) INGCO ANA18251 Refill Isi Brad Nailer Paku Tembak Angin/Listrik T F 25 mm,41,456,0,4,37,28,4,566
-ANA18301,Brad Nail (F30) INGCO ANA18301 Refill Isi Brad Nailer Paku Tembak Angin/Listrik T F 30 mm,23,59,0,4,0,-2,63,84
+ANA18301,Brad Nail (F30) INGCO ANA18301 Refill Isi Brad Nailer Paku Tembak Angin/Listrik T F 30 mm,23,59,0,4,60,-2,3,144
 AP14008,"Angle Polisher (7""/180mm) INGCO AP14008 - Mesin Poles Pemoles Body Cat Mobil 7 Inch",0,0,0,0,0,0,0,0
 AP14008-SP-16,Large Bevle Gear for AP14008-SP-16,0,3,0,0,2,0,0,5
 AP14008-SP-29,Stator for AP14008-SP-29,0,0,0,0,1,0,0,1
@@ -131,7 +131,7 @@ AP14008-SP-36,Carbon Brush for AP14008-SP-36,0,3,0,0,2,0,0,5
 AP14008-SP-38,Switch for AP14008-SP-38,0,3,0,0,2,0,0,5
 AP14008-SP-4,Rotor for AP14008-SP-4,0,0,0,0,1,0,0,1
 APB0111801,"Wool Polishing Bonnet (7"") INGCO APB0111801 Bulu Kain Wol Poles Polesan Body Mobil Inch Inci",26,76,0,2,26,16,0,146
-APLI2001,P20S Brushless Angle Polisher (2800rpm) INGCO APLI2001 Mesin Poles Body Cat Mobil,12,28,0,0,8,11,14,59
+APLI2001,P20S Brushless Angle Polisher (2800rpm) INGCO APLI2001 Mesin Poles Body Cat Mobil,12,28,0,0,20,11,2,71
 APLI2001-SP-18,Rotor for APLI2001-SP-18,0,0,0,0,1,0,0,1
 APLI2001-SP-19,Stator for APLI2001-SP-19,0,0,0,0,1,0,0,1
 APLI2001-SP-7,Big Gear for APLI2001-SP-7,0,1,0,0,0,0,0,1
@@ -142,10 +142,10 @@ APLI2002-SP-29,Rotor for APLI2002-SP-29,0,0,0,0,1,0,0,1
 APLI2002-SP-30,Stator for APLI2002-SP-30,0,0,0,0,1,0,0,1
 APS06131-3,Air Stapler (6-13mm) INGCO APS06131-3 - Staples Steples Tembak Angin,155,560,2,4,67,30,0,818
 APS1501,"Air Sander (6""/150mm) INGCO APS1501 - Mesin Amplas Angin Bulat Orbital Pneumatic",0,0,0,0,0,0,0,0
-APS1512,Air Sander (6/150 mm) INGCO APS1501 Mesin Amplas Angin Bulat Orbital,0,22,0,0,0,0,30,22
+APS1512,Air Sander (6/150 mm) INGCO APS1501 Mesin Amplas Angin Bulat Orbital,0,22,0,0,30,0,0,52
 ARW121,"Air Ratchet Wrench (1/2"" 68Nm) INGCO ARW121 - Kunci Sok Socket Angin",9,9,0,2,25,0,0,45
 ASE008,5-Pcs Screw Extractor (3-14 mm) INGCO ASE008 Tap Balik Pembuka Baut Sekrup,41,22,1,3,71,14,0,152
-ASG1061,HVLP Air Spray Gun (600 ml) INGCO ASG1061 Cat Semprot PROFESSIONAL Paint Body Mobil,8,16,1,1,0,13,42,39
+ASG1061,HVLP Air Spray Gun (600 ml) INGCO ASG1061 Cat Semprot PROFESSIONAL Paint Body Mobil,8,17,1,1,40,13,1,80
 ASG1061-SP-22,Hex Socket Bolt  for ASG1061-SP-22,0,39,0,0,0,0,0,39
 ASG1061-SP-31/32/33,Cup Body Assy for ASG1061,0,0,0,0,0,0,0,0
 ASG1061-SP-48,Strainer for ASG1061,0,0,0,0,0,0,0,0
@@ -154,9 +154,9 @@ ASG2101,HVLP Air Spray Gun (1000 ml) INGCO ASG2101 Cat Semprot PROFESIONAL Body 
 ASG3101,Air Spray Gun (1000 ml) INGCO ASG3101 Cat Semprot Body Paint Tabung Bawah cc,16,6,2,1,28,5,0,58
 ASG3101-SP-20,Trigger for ASG3101-SP-20,0,3,0,0,2,0,0,5
 ASG3105,Air Spray Gun (Wide Nozzle) 1000 ml INGCO ASG3105 - Cat Semprot Paint Nozel Lebar,8,42,0,2,35,0,0,87
-ASG4041,Air Spray Gun (400 ml) INGCO ASG4041 - Cat Semprot Paint Tabung Atas cc,9,48,0,2,42,9,0,110
+ASG4041,Air Spray Gun (400 ml) INGCO ASG4041 - Cat Semprot Paint Tabung Atas cc,9,43,0,2,42,9,0,105
 ASG4041-SP-20,Trigger for ASG4041-SP-20,0,3,0,0,2,0,0,5
-ASG4042,Air Spray Gun (360°) 400 ml INGCO ASG4042 Cat Semprot Tabung Putar Atas/Bawah cc,0,14,0,2,24,0,0,40
+ASG4042,Air Spray Gun (360°) 400 ml INGCO ASG4042 Cat Semprot Tabung Putar Atas/Bawah cc,0,13,0,2,24,0,0,39
 AST18251,Crown Staples (U 25 mm) INGCO AST18251 Refill Isi Steples Stapler Brad Nailer U25,0,0,0,0,0,0,0,0
 AST18351,Crown Staples (U 35 mm) INGCO AST18351 Refill Isi Steples Stapler Brad Nailer U35,0,0,0,0,0,0,0,0
 AST18401,Crown Staples (U 40 mm) INGCO AST18401 Refill Isi Steples Stapler Brad Nailer U40,0,0,0,0,0,0,0,0
@@ -166,7 +166,7 @@ AST20101,Crown Staples (U 10 mm) INGCO AST20101 - Isi Steples Brad Nailer U10,31
 AST20131,Crown Staples (U 13 mm) INGCO AST20131 - Refill Isi Steples Tembak U13,6,15,7,3,12,5,0,48
 ATG0601,Air Tire Inflating Gun INGCO ATG0601 Tembakan Gagang Isi/Ukur/Buang Tekanan Angin Ban,34,113,0,4,20,0,0,171
 AWG1001,Air Washing Gun (0.75 L) INGCO AWG1001 - Speed Solar Engine Degreasing,0,0,0,1,31,0,7,32
-BG61502,Bench Grinder (6/150 mm) INGCO BG61502 - Mesin Gerinda Asah Pisau Duduk 6 Inch,0,10,0,0,-6,0,22,4
+BG61502,Bench Grinder (6/150 mm) INGCO BG61502 - Mesin Gerinda Asah Pisau Duduk 6 Inch,0,7,0,0,15,0,3,22
 BG61502-SP-13,Rotor for BG61502-SP-13,0,2,0,0,1,0,0,3
 BG61502-SP-14,Stator for BG61502-SP-14,0,0,0,0,1,0,0,1
 BG61502-SP-33,Switch for BG61502-SP-33,0,3,0,0,2,0,0,5
@@ -175,13 +175,13 @@ BG83502-SP-22/23,Rotor for BG83502-SP-22/23,0,2,0,0,1,0,0,3
 BG83502-SP-30,Switch for BG83502-SP-30,0,3,0,0,2,0,0,5
 BG83502-SP-49,Stator for BG83502-SP-49,0,0,0,0,1,0,0,1
 BJ9508,Biscuit Jointer (100mm) INGCO BJ9508 Mesin Penyambung Papan Kayu Tenon Tenoning,2,0,0,0,1,0,0,3
-BM2S18004,"Mitre Saw (10"") INGCO BM2S18004 Mesin Miter Mitresaw Gergaji Potong Sudut Aluminium Kayu Besi",8,1,0,0,1,0,2,10
+BM2S18004,"Mitre Saw (10"") INGCO BM2S18004 Mesin Miter Mitresaw Gergaji Potong Sudut Aluminium Kayu Besi",8,1,0,0,2,0,1,11
 BM2S24001,"Sliding Mitre Saw (12"") INGCO BM2S24001 Mesin Miter Saw Mitresaw Potong Aluminium",0,0,0,0,0,0,0,0
 BM2S24001-SP-10,Brush for BM2S24001-SP-10,0,7,0,0,3,0,0,10
 BM2S24001-SP-14,Rotor for BM2S24001-SP-14,0,0,0,0,1,0,0,1
 BM2S24001-SP-16,Stator for BM2S24001-SP-16,0,0,0,0,1,0,0,1
 BM2S24001-SP-60,Switch for BM2S24001-SP-60,0,3,0,0,2,0,0,5
-CABLI2001,P20S Cordless Hand Blower/Aspirator (2.7m³/min) INGCO CABLI2001 Mesin Peniup Angin Debu,3,36,0,0,12,1,23,52
+CABLI2001,P20S Cordless Hand Blower/Aspirator (2.7m³/min) INGCO CABLI2001 Mesin Peniup Angin Debu,3,35,0,0,32,1,3,71
 CABLI2001-SP-14,DC Motor for CABLI2001-SP-14,0,0,0,0,0,0,0,0
 CABLI2001-SP-20,Fan for CABLI2001-SP-20,0,3,0,0,2,0,0,5
 CABLI2001-SP-28,PCB for CABLI2001-SP-28,0,0,0,0,1,0,0,1
@@ -190,91 +190,91 @@ CABLI20018,P20S Cordless Hand Blower INGCO CABLI20018 - Mesin Tiup Daun Pet Drye
 CABLI20018-SP-12,Motor for CABLI20018,0,0,0,0,0,0,0,0
 CABLI20018-SP-17/18,Switch for CABLI20018,0,0,0,0,0,0,0,0
 CABLI2002,P20S Cordless Blower (8.5m/min) INGCO CABLI2002 Mesin Tiup Debu Daun,0,0,0,0,0,0,1,0
-CABLI20428,P20S Cordless Blower (8.5m3/min) INGCO CABLI20428 Mesin Tiup Debu Daun,6,2,0,2,5,0,1,15
-CACLI2001,P20S Car Mini Compressor (150Psi) INGCO CACLI2001 Pompa Kompresor Auto Ban Mobil,1,46,0,0,-14,-1,34,32
-CACLI2002,P20S Truck Mini Compressor (160Psi) INGCO CACLI2002 - Kompresor Mini Pompa Ban Truk,40,38,0,2,0,26,12,106
+CABLI20428,P20S Cordless Blower (8.5m3/min) INGCO CABLI20428 Mesin Tiup Debu Daun,6,1,0,2,5,0,2,14
+CACLI2001,P20S Car Mini Compressor (150Psi) INGCO CACLI2001 Pompa Kompresor Auto Ban Mobil,1,44,0,0,18,-1,4,62
+CACLI2002,P20S Truck Mini Compressor (160Psi) INGCO CACLI2002 - Kompresor Mini Pompa Ban Truk,40,38,0,2,10,26,2,116
 CACLI2003,P20S Air Compressor (6L 135Psi)INGCO CACLI2003 Kompresor Angin Baterai,2,2,0,0,2,1,0,7
-CAGLI1001,"P20S Cordless Angle Grinder (4"") INGCO CAGLI1001 Gerinda Tangan Listrik 4 Inch",14,112,3,2,48,25,3,204
+CAGLI1001,"P20S Cordless Angle Grinder (4"") INGCO CAGLI1001 Gerinda Tangan Listrik 4 Inch",14,109,3,2,45,25,6,198
 CAGLI1001-SP-11,Gear for CAGLI1001-SP-11,0,3,0,0,2,0,0,5
 CAGLI1001-SP-21,Pinion for CAGLI1001-SP-21,0,3,0,0,2,0,0,5
 CAGLI1001-SP-23,Motor for CAGLI1001-SP-23,0,0,0,0,1,0,0,1
 CAGLI1001-SP-25,Switch for CAGLI1001-SP-25,0,2,0,0,2,0,0,4
 CAGLI1001-SP-29,Carbon Brush for CAGLI1001-SP-29,0,7,0,0,3,0,0,10
 CAGLI1001-SP-35/36,PCB for CAGLI1001-SP-35/36,0,0,0,0,0,0,0,0
-CAGLI1002,"P20S Brushless Angle Grinder (4"") INGCO CAGLI1002 Mesin Gerinda Grenda Gurinda Tangan 4 Inch Inci",0,0,1,0,0,0,3,1
+CAGLI1002,"P20S Brushless Angle Grinder (4"") INGCO CAGLI1002 Mesin Gerinda Grenda Gurinda Tangan 4 Inch Inci",0,0,1,0,1,0,2,2
 CAGLI1002-SP-23,Motor for CAGLI1002,0,0,0,0,0,0,0,0
-CAGLI201008,P20S Brushless Angle Grinder (4) INGCO CAGLI1002 Gerinda Grenda Inch,0,1,0,0,-20,0,31,-19
+CAGLI201008,P20S Brushless Angle Grinder (4) INGCO CAGLI1002 Gerinda Grenda Inch,0,0,0,0,8,0,2,8
 CBNLI2028,P20S Cordless Brad Nailer (F15-50) INGCO CBNLI2028 Paku Tembak Baterai,3,0,0,0,0,9,0,12
-CCGLI2001,P20S Cordless Caulking Gun INGCO CCGLI2001 Tembakan Sealant Silicone,18,46,0,0,42,0,0,106
+CCGLI2001,P20S Cordless Caulking Gun INGCO CCGLI2001 Tembakan Sealant Silicone,18,45,0,0,42,0,1,105
 CDLI2002,"P20S Cordless Drill (10mm, 45Nm) INGCO CDLI2002 - Paket Bor Baterai Kayu Besi Aksesoris Mata Bor",24,81,4,1,21,17,5,148
 CDLI2002-SP-13,Trigger for CDLI2002-SP-13,0,2,0,0,2,0,0,4
 CDLI2002-SP-7,Motor for CDLI2002-SP-7,0,0,0,0,1,0,0,1
 CDLI200215,P20S Eco Drill (10 mm) INGCO CDLI200215 - Paket Hemat Ekonomis Bor Baterai Kayu Besi,4,0,0,0,2,0,0,6
-CDLI20024,"P20S Cordless Drill (10mm, 45Nm) INGCO CDLI20024 Bor Baterai Kayu Besi Portable 20 V",25,83,0,1,54,0,3,163
+CDLI20024,"P20S Cordless Drill (10mm, 45Nm) INGCO CDLI20024 Bor Baterai Kayu Besi Portable 20 V",24,81,0,1,54,0,5,160
 CDLI20024-SP-11,SwitchTerminal for CDLI20024-SP-11,0,0,0,0,1,0,0,1
 CDLI20024-SP-2,Drill Chuck 0.8-10mm for CDLI20024,0,0,0,0,0,0,0,0
 CDLI20024-SP-3,Gear Box Assy for CDLI20024,0,0,0,0,0,0,0,0
 CDLI20024-SP-7,Motor for CDLI20024-SP-7,0,3,0,0,2,0,0,5
 CDSLI2051,P20S Cordless Palm Sander (Velcro) INGCO CDSLI2051 Mesin Amplas Segi 3,21,8,0,2,4,3,0,38
-CFALI2001,"P20S Cordless Working Fan (12"") INGCO CFALI2001 - Kipas Angin Baterai Listrik Dual Power Adaptor",5,1,0,0,0,0,5,6
-CFALI2002,"P20S Cordless Working Fan (11"") INGCO CFALI2002 - Kipas Angin Portable Baterai",1,0,0,0,0,3,3,4
+CFALI2001,"P20S Cordless Working Fan (12"") INGCO CFALI2001 - Kipas Angin Baterai Listrik Dual Power Adaptor",5,0,0,0,4,0,2,9
+CFALI2002,"P20S Cordless Working Fan (11"") INGCO CFALI2002 - Kipas Angin Portable Baterai",1,0,0,0,2,3,1,6
 CFALI2002-SP-21,PCB for CFALI2002- SP-21,0,0,0,0,0,0,0,0
 CGGLI1201,S12 Cordless Glue Gun (Ø11.2mm) INGCO CGGLI1201 Lem Tembak Lilin Cair,47,75,0,2,2,15,2,141
 CGGLI2001,P20S Cordless Glue Gun (Ø11.2mm) INGCO CGGLI2001 - Mesin Lem Tembak Lilin Bakar,90,156,0,2,36,22,2,306
 CGSLI20128,P20S Mini Chain Saw (12 Inch) INGCO CGSLI20128 Gergaji Baterai Dahan,0,0,0,0,4,0,1,4
-CGSLI2068,P20S Mini Chain Saw (6 Inch) INGCO CGSLI2068 Gergaji Listrik Dahan,9,13,0,0,16,0,0,38
-CGTLI20018,P20S String Grass Trimmer INGCO CGTLI20018 Mesin Cordless Potong Pemotong Rumput Senar Baterai,1,20,0,0,-4,0,14,17
+CGSLI2068,P20S Mini Chain Saw (6 Inch) INGCO CGSLI2068 Gergaji Listrik Dahan,9,12,0,0,16,0,1,37
+CGTLI20018,P20S String Grass Trimmer INGCO CGTLI20018 Mesin Cordless Potong Pemotong Rumput Senar Baterai,1,17,0,0,10,0,2,28
 CGTLI20018-SP-2,PCB board for CGTLI20018,0,0,0,0,0,0,0,0
 CGTLI20018-SP-26,Motor for CGTLI20018,0,0,0,0,0,0,0,0
-CGTLI20301,P20S String Grass Trimmer Set INGCO CGTLI20301 - Mesin Cordless Potong Pemotong Rumput Senar Baterai,0,22,0,0,-1,0,12,21
+CGTLI20301,P20S String Grass Trimmer Set INGCO CGTLI20301 - Mesin Cordless Potong Pemotong Rumput Senar Baterai,0,19,0,0,11,0,2,30
 CHPTB68701,3-Pcs Paint Brush (1 Inch) INGCO CHPTB68701 Kuas Cat Minyak 45 mm Kayu Besi,0,0,0,0,0,0,0,0
 CHPTB68702,"Paint Brush (2"") INGCO CHPTB68702 Kuas Cat Minyak 51 mm Kayu Besi Inch",0,0,0,0,0,0,0,0
-CHPTB68703,"Paint Brush (3"") INGCO CHPTB68703 Kuas Cat Minyak 57 mm Kayu Besi Inch",2,10,0,0,20,10,1,42
+CHPTB68703,"Paint Brush (3"") INGCO CHPTB68703 Kuas Cat Minyak 57 mm Kayu Besi Inch",2,7,0,0,20,10,1,39
 CHPTT082551,"Paint Tray (9"") INGCO CHPTT082551 Bak Baki Tatakan Cat Roll Besar Inch",33,136,0,9,71,10,0,259
 CHTLI20018,"P20S Hedge Trimmer (18"") INGCO CHTLI20018 - Mesin Pangkas Potong Dahan Daun Pagar Tanaman Inch",0,0,0,0,4,0,0,4
 CHTLI20018-SP-12,Motor for CGTLI20018,0,0,0,0,0,0,0,0
 CHTLI20018-SP-21-25/28,Solid Tool Assy for CGTLI20018,0,0,0,0,0,0,0,0
 CHTLI20018-SP-3/11,TerminalPCB board for CGTLI20018,0,0,0,0,0,0,0,0
-CIDLI1232,S12 Cordless Impact Drill (12V 20Nm) INGCO CIDLI1232 - Bor Tembok Portable Baterai 12 V,9,12,2,1,21,-1,2,44
+CIDLI1232,S12 Cordless Impact Drill (12V 20Nm) INGCO CIDLI1232 - Bor Tembok Portable Baterai 12 V,9,11,2,1,21,-1,3,43
 CIDLI1232-SP-12,Switch Assy for CIDLI1232-SP-12,0,3,0,0,2,0,0,5
 CIDLI1232-SP-7,Motor for CIDLI1232-SP-7,0,0,0,0,1,0,0,1
-CIDLI2002,P20S Cordless Impact Drill (10mm) INGCO CIDLI2002 - Bor Tembok Baterai Portable 20 V,41,135,3,2,24,32,1,237
+CIDLI2002,P20S Cordless Impact Drill (10mm) INGCO CIDLI2002 - Bor Tembok Baterai Portable 20 V,41,133,3,2,24,32,3,235
 CIDLI2002-SP-13,Trigger for CIDLI2002-SP-13,0,5,0,0,0,0,0,5
 CIDLI2002-SP-3,Gearbox for CIDLI2002 SP-3,0,0,0,0,0,0,0,0
 CIDLI2002-SP-7,Motor for CIDLI2002-SP-7,0,0,0,0,0,0,0,0
-CIDLI200215,P20S Eco Impact Drill (10 mm) INGCO CIDLI200215 - Paket Hemat Ekonomis Bor Baterai Tembok Beton,10,43,0,2,28,0,0,83
-CIDLI20031,P20S Cordless Impact Drill (13mm) INGCO CIDLI20031 Bor Tembok Baterai Portable 20 V,40,60,5,2,27,10,2,144
+CIDLI200215,P20S Eco Impact Drill (10 mm) INGCO CIDLI200215 - Paket Hemat Ekonomis Bor Baterai Tembok Beton,10,41,0,2,28,0,2,81
+CIDLI20031,P20S Cordless Impact Drill (13mm) INGCO CIDLI20031 Bor Tembok Baterai Portable 20 V,40,58,5,1,27,10,2,141
 CIDLI20031-SP-12/13,Switch for CIDLI20031,0,0,0,0,0,0,0,0
 CIDLI20031-SP-8,Motor for CIDLI20031,0,0,0,0,0,0,0,0
-CIDLI20608,P20S Brushless Impact Drill (13mm) INGCO CIDLI20608 - Bor Tembok Beton,5,37,0,0,10,0,1,52
+CIDLI20608,P20S Brushless Impact Drill (13mm) INGCO CIDLI20608 - Bor Tembok Beton,5,36,0,0,8,0,2,49
 CIDLI20608-SP-2,Motor for CIDLI20608 SP-2,0,0,0,0,0,0,0,0
-CIRLI1201,S12 Cordless Impact Driver (12V 100Nm) INGCO CIRLI1201 Obeng Listrik Baterai,20,38,0,2,27,10,0,97
-CIRLI2002,P20S Brushless Impact Driver (20V 170Nm) INGCO CIRLI2002 Obeng Listrik,52,52,3,2,4,17,11,130
+CIRLI1201,S12 Cordless Impact Driver (12V 100Nm) INGCO CIRLI1201 Obeng Listrik Baterai,20,36,0,2,27,10,2,95
+CIRLI2002,P20S Brushless Impact Driver (20V 170Nm) INGCO CIRLI2002 Obeng Listrik,52,50,3,2,14,17,2,138
 CIRLI2002-SP-10,Controller for CIRLI2002,0,0,0,0,0,0,0,0
 CIRLI2002-SP-11,Trigger for CIRLI2002-SP-11,0,2,0,0,2,0,0,4
 CIRLI2002-SP-2,Gear Box Assy  Hammer Assy for CIRLI2002,0,0,0,0,0,0,0,0
 CIRLI2002-SP-3,Stator for CIRLI2002-SP-3,0,2,0,0,1,0,0,3
 CIRLI2002-SP-5,Rotor for CIRLI2002-SP-5,0,2,0,0,1,0,0,3
-CIWLI2001,"P20S Brushless Impact Wrench (1/2"") INGCO CIWLI2001 - Mesin Sok Socket Soket Baut",9,2,0,2,3,-1,4,15
+CIWLI2001,"P20S Brushless Impact Wrench (1/2"") INGCO CIWLI2001 - Mesin Sok Socket Soket Baut",9,0,0,2,0,-1,4,10
 CIWLI2001-SP-10,Controller for CIWLI2001,0,0,0,0,0,0,0,0
 CIWLI2001-SP-11,Trigger for CIWLI2001-SP-11,0,0,0,0,1,0,0,1
 CIWLI2001-SP-3,Stator for CIWLI2001-SP-3,0,1,0,0,1,0,0,2
 CIWLI2001-SP-5,Rotor for CIWLI2001-SP-5,0,0,0,0,1,0,0,1
 CIWLI2001-SP-F.S.S,Square Shaft for CIWLI2001-SP-F.S.S,0,0,0,0,-1,0,0,-1
-CJSLI8501,P20S Cordless Jig Saw (20 V) INGCO CJSLI8501 - Gergaji Triplek Jigsaw,7,11,0,2,13,3,1,36
+CJSLI8501,P20S Cordless Jig Saw (20 V) INGCO CJSLI8501 - Gergaji Triplek Jigsaw,7,10,0,2,13,3,2,35
 CJSLI8501-SP-11,Gear for CJSLI8501-SP-11,0,3,0,0,2,0,0,5
 CJSLI8501-SP-22,Electrical Components for CJSLI8501-SP-22,0,-1,0,0,1,0,0,0
 CJSLI8501-SP-25,Switch Components for CJSLI8501-SP-25,0,2,0,0,1,0,0,3
-CK1301,Chuck Key (13 mm) INGCO CK1301 Kunci Kuncian Pembuka  Cak Kepala Mata Bor Listrik,86,461,14,8,79,19,0,667
+CK1301,Chuck Key (13 mm) INGCO CK1301 Kunci Kuncian Pembuka  Cak Kepala Mata Bor Listrik,86,430,14,8,79,19,0,636
 CKLI2006,P20S Cordless 2-Combo Kit INGCO CKLI2006 - Paket Bor dan Obeng Baterai Portable,5,12,0,0,0,3,0,20
 CKLI2010,P20S Cordless 4-Combo Kit INGCO CKLI2010 - Paket Bor Gergaji Serkel Obeng Driver Circular Saw Set,3,10,0,0,1,1,0,15
-CMLI2001,P20S Cordless Oscillating Multi Tool INGCO CMLI2001 - Mesin Tools Cutter Oskilasi,12,42,0,2,29,8,0,93
+CMLI2001,P20S Cordless Oscillating Multi Tool INGCO CMLI2001 - Mesin Tools Cutter Oskilasi,12,40,0,2,29,8,2,91
 CMLI2001-SP-21,Motor for CMLI2001-SP-21,0,2,0,0,1,0,0,3
 CMLI2001-SP-28,PCB for CMLI2001-SP-28,0,1,0,0,1,0,0,2
-CMS2001,"P20S Cordless Mitre Saw (8 1/4"") INGCO CMS2001 - Mesin Miter Mitresaw Kayu Aluminium",3,1,0,1,2,0,0,7
+CMS2001,"P20S Cordless Mitre Saw (8 1/4"") INGCO CMS2001 - Mesin Miter Mitresaw Kayu Aluminium",3,0,0,1,2,0,1,6
 CMS2001-SP-135,Pcb for CMS2001,0,0,0,0,0,0,0,0
 CMS2001-SP-76,Carbon Brush for CMS2001,0,0,0,0,0,0,0,0
-COS35568,"Cut Off Saw (14"") INGCO COS35568 - Mesin Cutting Wheel Listrik 14 Inch",4,5,0,1,-1,4,5,13
+COS35568,"Cut Off Saw (14"") INGCO COS35568 - Mesin Cutting Wheel Listrik 14 Inch",4,3,0,1,4,4,2,16
 COS35568-SP-15,Rotor for COS35568-SP-15,0,0,0,0,1,0,0,1
 COS35568-SP-2,Carbon brush for COS35568-SP-2,0,4,0,0,2,0,0,6
 COS35568-SP-23,Switch for COS35568-SP-23,0,3,0,0,2,0,0,5
@@ -283,12 +283,12 @@ COS35568-SP-8,Stator for COS35568-SP-8,0,0,0,0,1,0,0,1
 COS4051,"Cut Off Saw INDUSTRIAL (16"") INGCO COS4051 Mesin Gerinda Potong Cutting Wheel 16 Inch Inci",0,2,0,0,2,1,1,5
 COS4051-SP-68,Switch for COS4051-SP-68,0,2,0,0,1,0,0,3
 COS4051-SP-75,Motor for COS4051-SP-75,0,0,0,0,0,0,0,0
-COSLI23011,Lithium-ion cordless 2 Pcs combo kit,0,96,0,0,-33,0,102,63
+COSLI23011,INGCO Tools Indonesia Promotional Combo Items Stok Terbatas,0,96,0,0,66,0,0,162
 CPWLI2008-SP-13,Switch and PCB assembly for CPWLI2008,0,0,0,0,0,0,0,0
 CPWLI2008-SP-6,Motor for CPWLI2008,0,0,0,0,0,0,0,0
 CPWLI2008-SP-8,Trigger for CPWLI2008-SP-8,0,30,0,0,0,0,0,30
 CPWLI2008-SP-9,Inner inlet hose for CPWLI2008,0,0,0,0,0,0,0,0
-CPWLI20082,P20S Cordless Jet Cleaner (25 Bar) INGCO CPWLI20082 Mesin Pressure Steam Washer Cuci Mobil Motor AC,87,63,0,2,47,4,2,203
+CPWLI20082,P20S Cordless Jet Cleaner (25 Bar) INGCO CPWLI20082 Mesin Pressure Steam Washer Cuci Mobil Motor AC,87,60,0,2,45,4,3,198
 CPWLI20082-SP-1,Lance for CPWLI20082-SP,0,0,0,0,0,0,0,0
 CPWLI20082-SP-13,PCB for CPWLI20082-SP-13,0,0,0,0,0,0,0,0
 CPWLI20082-SP-2,Pump Assembly for CPWLI20082-SP-2,0,0,0,0,0,0,0,0
@@ -302,41 +302,41 @@ CRHLI1601-SP-40,Motor for CRHLI1601-SP-40,0,0,0,0,1,0,0,1
 CRHLI1601-SP-44-1,Switch for CRHLI1601-SP-44-1,0,3,0,0,2,0,0,5
 CRHLI2201,P20S Brushless Rotary Hammer (2.0J) INGCO CRHLI2201 - Mesin Bor Bobok,52,107,3,2,55,15,7,234
 CRHLI2201-SP-78/79/81,Controller Assy for CRHLI2201,0,0,0,0,0,0,0,0
-CROSLI2001,"P20S Cordless Random Orbital Sander (5"") INGCO CROSLI2001 Mesin Amplas Putar Baterai Putaran Acak",49,279,0,2,46,13,5,389
+CROSLI2001,"P20S Cordless Random Orbital Sander (5"") INGCO CROSLI2001 Mesin Amplas Putar Baterai Putaran Acak",49,279,0,2,44,13,5,387
 CROSLI2001-SP-5/13,Pcb for CROSLI2001,0,0,0,0,0,0,0,0
 CROSLI2001-SP-7-10,Ball Bearing6002/C3-2Rz for CROSLI2001,0,0,0,0,0,0,0,0
 CROSLI2001-SP-7-2,Motor for CROSLI2001,0,0,0,0,0,0,0,0
 CROSLI2001-SP-7-5,bearing 6000 for CROSLI2001,0,0,0,0,0,0,0,0
-CRSLI1151,P20S Cordless Reciprocating Saw INGCO CRSLI1151 Mesin Gergaji Sabre Saber,0,39,0,2,4,17,23,62
+CRSLI1151,P20S Cordless Reciprocating Saw INGCO CRSLI1151 Mesin Gergaji Sabre Saber,0,39,0,2,24,17,3,82
 CRSLI1151-SP-9,Motor for CRSLI1151,0,0,0,0,0,0,0,0
-CS18528,"Circular Saw (7 1/4"") INGCO CS18528 Gergaji Potong Kayu Serkel Circle",10,3,0,2,0,4,7,19
+CS18528,"Circular Saw (7 1/4"") INGCO CS18528 Gergaji Potong Kayu Serkel Circle",10,1,0,2,7,4,2,24
 CS18528-SP-30,Big gear for CS18528-SP-30,0,3,0,0,2,0,0,5
 CS18528-SP-39,Rotor for CS18528-SP-39,0,1,0,0,0,0,0,1
 CS18528-SP-44,Stator for CS18528-SP-44,0,2,0,0,1,0,0,3
 CS18528-SP-47,Carbon brush for CS18528-SP-47,0,7,0,0,3,0,0,10
 CS18528-SP-53,Switch for CS18528-SP-53,0,7,0,0,3,0,0,10
 CS2358,"Circular Saw (9 1/4"") INGCO CS2358 Gergaji Serkel Circle Listrik Potong Kayu",21,27,0,1,17,11,2,77
-CSDLI0402,Eco Cordless Screwdriver (4V 4Nm) INGCO CSDLI0402 - Obeng Listrik Kecil Mini Cordless Baterai DIY,0,20,2,2,17,0,0,41
-CSDLI0403,Cordless Screwdriver (4V 4Nm) INGCO CSDLI0403 - Obeng Listrik Kecil Baterai Li-Ion Mini Cr-V,6,15,0,2,3,0,12,26
+CSDLI0402,Eco Cordless Screwdriver (4V 4Nm) INGCO CSDLI0402 - Obeng Listrik Kecil Mini Cordless Baterai DIY,0,18,2,2,17,0,2,39
+CSDLI0403,Cordless Screwdriver (4V 4Nm) INGCO CSDLI0403 - Obeng Listrik Kecil Baterai Li-Ion Mini Cr-V,6,13,0,1,15,0,2,35
 CSDLI0801,"Cordless Screwdriver (8V, 6.5Nm) INGCO CSDLI0801 Obeng Listrik Baterai",0,0,0,0,3,1,0,4
 CSDLI0801-SP-5,Motor for CSDLI0801-SP-5,0,3,0,0,2,0,0,5
-CSGLI2001,P20S Cordless Spray Paint Gun (800cc) INGCO CSGLI2001 Cat Semprot Body Mobil,20,37,1,3,34,4,2,99
+CSGLI2001,P20S Cordless Spray Paint Gun (800cc) INGCO CSGLI2001 Cat Semprot Body Mobil,20,35,1,3,34,4,3,97
 CSGLI2001-SP-32,Circuit Board for CSGLI2001,0,0,0,0,0,0,0,0
 CSGLI2001-SP-36,Switch for CSGLI2001-SP-36,0,7,0,0,3,0,0,10
 CSGLI2001-SP-5,Motor for CSGLI2001-SP-5,0,0,0,0,1,0,0,1
-CSILI2001,P20S Cordless Solder Iron (40 W) INGCO CSILI2001 - Patri Listrik Timah Portable Baterai,25,15,0,0,3,22,2,65
-CSLI1401,"P20S Cordless Circular Saw (6"") INGCO CSLI1401 - Mesin Gergaji Kayu Serkel 20 V",36,50,0,2,36,16,0,140
+CSILI2001,P20S Cordless Solder Iron (40 W) INGCO CSILI2001 - Patri Listrik Timah Portable Baterai,25,14,0,0,3,22,2,64
+CSLI1401,"P20S Cordless Circular Saw (6"") INGCO CSLI1401 - Mesin Gergaji Kayu Serkel 20 V",36,48,0,2,36,16,2,138
 CSLI1401-SP-22,Motor Assembly for CSLI1401-SP-22,0,0,0,0,1,0,0,1
 CSLI1401-SP-27,Brake Switch for CSLI1401-SP-27,0,3,0,0,2,0,0,5
 CSLI1401-SP-34,PCB for CSLI1401-SP-34,0,0,0,0,0,0,0,0
-CSLI1651,P20S Cordless Circular Saw (6.5) INGCO CSLI1651 Gergaji Serkel Kayu Circle Baterai,38,9,0,1,8,20,10,76
+CSLI1651,P20S Cordless Circular Saw (6.5) INGCO CSLI1651 Gergaji Serkel Kayu Circle Baterai,38,7,0,1,18,20,2,84
 CSLI1651-SP-12/22,Shaft Assy./Motor Assy. for CSLI1651,0,0,0,0,0,0,0,0
 CSLI1651-SP-16,Switch for CSLI1651-SP-16,0,0,0,0,1,0,0,1
 CSLI1651-SP-23,PCB for CSLI1651-SP-23,0,10,0,0,0,0,0,10
 CSLI1651-SP-45,Parallel Guide for CSLI1651,0,0,0,0,0,0,0,0
 CSLI1651-UBC,[UBC] P20S Circular Saw (6 1/2”) INGCO CSLI1651 Gergaji Serkel Kayu,4,8,0,0,2,0,0,14
 CSSLI2001,P20S Brushless Shear INGCO CSSLI2001 - Gunting Dahan Ranting Baterai,22,49,0,2,16,18,2,107
-CSTLI2001,P20S Cordless Garden Shear INGCO CSTLI2001 - Gunting Rumput Daun Tanaman Baterai Listrik,34,45,0,0,41,8,1,128
+CSTLI2001,P20S Cordless Garden Shear INGCO CSTLI2001 - Gunting Rumput Daun Tanaman Baterai Listrik,34,43,0,0,41,7,3,125
 CSTLI2001-SP-1,Blade for CSTLI2001-SP,0,0,0,0,0,0,0,0
 CSTLI2001-SP-21,Motor for CSTLI2001,0,0,0,0,0,0,0,0
 CSTLI2001-SP-C.T.G,Cut The Grass On The Blade  Assy for CSTLI2001-SP-C.T.G,0,5,0,0,0,0,0,5
@@ -344,12 +344,12 @@ CSTLI2001-SP-P.B.A,Prune To Blade Assy. for CSTLI2001,0,0,0,0,0,0,0,0
 CSTLI20018,P20S Brushless 2-in-1 Bush Cutter INGCO CSTLI20018 Mesin Cordless Potong Rumput Pisau Senar Baterai,0,0,0,0,2,0,1,2
 CSTLI20028,P20S Brushless String Trimmer and Bush Cutter INGCO CSTLI20028 Mesin Potong Rumput Senar Pisau,1,0,0,0,0,0,1,1
 CSTLI20028-SP-13,trimmer head for CSTLI20028,0,0,0,0,0,0,0,0
-CSTLI202522,P20S Brushless Bush Cutter INGCO CSTLI202522 Mesin Potong Rumput Pisau,15,16,0,2,2,2,0,37
-CTLI2002,P20S Hydraulic Crimping (120kN) INGCO CTLI2002 Mesin Tang Press Skun,0,1,0,0,1,0,0,2
+CSTLI202522,P20S Brushless Bush Cutter INGCO CSTLI202522 Mesin Potong Rumput Pisau,15,14,0,2,2,2,2,35
+CTLI2002,P20S Hydraulic Crimping (120kN) INGCO CTLI2002 Mesin Tang Press Skun,0,0,0,0,1,0,1,1
 CUCLI1201,S12 Converter USB Power Bank (5V 1.5A) INGCO CUCLI1201 - Charger Powerbank Portable HP Tablet Gadget,48,142,8,0,59,36,2,293
 CUCLI2001,P20S Converter USB Power Bank (5V 1-2A) INGCO CUCLI2001 - Charger HP,0,0,0,0,0,0,0,0
 CUCLI2022,P20S Converter USB Power Bank (5V/12V) INGCO CUCLI2022 Powerbank HP,0,0,0,0,0,0,1,0
-CVLI2001,P20S Cordless Vacuum Cleaner (0.7L 7kPa) INGCO CVLI2001 Penyedot Debu Baterai,13,6,0,0,11,1,1,31
+CVLI2001,P20S Cordless Vacuum Cleaner (0.7L 7kPa) INGCO CVLI2001 Penyedot Debu Baterai,13,0,0,0,11,1,3,25
 CVLI2001-SP-10,Dust Cup Cover for CVLI2001-SP-10,0,0,0,0,0,0,0,0
 CVLI2001-SP-11,Filter for CVLI2001-SP-11,0,13,0,0,6,0,0,19
 CVLI2001-SP-12,Filter Net for CVLI2001,0,0,0,0,0,0,0,0
@@ -366,9 +366,9 @@ CVLI2005E-SP-33,Dust Bag for CVLI2005E,0,0,0,0,0,0,0,0
 CVLI2005E-SP-35,Pcb Board for CVLI2005E,0,8,0,0,0,0,0,8
 CWLI1223,S12 Working Flash Light (100 Lm) INGCO CWLI1223 Senter Baterai Li-Ion,22,71,0,0,9,15,2,117
 DBC0112501,SDS Plus Chisel Point (14 mm) INGCO DBC0112501 Mata Bor Pahat Bobok Tembok Beton 250 mm,19,69,0,4,91,0,0,183
-DBC0122501,SDS Plus Chisel Flat (20 mm) INGCO DBC0122501 Mata Bor Pahat Bobok Tembok Beton 14 x 250,0,0,0,0,-2,2,0,0
-DBC0214001,SDS-Max Chisel Point (18 mm) INGCO DBC0214001 Mata Bor Bobok Pahat Tembok Beton,0,70,0,0,-6,4,75,68
-DBC0224001,SDS-Max Chisel Flat (25 mm) INGCO DBC0224001 Mata Bor Bobok Pahat Tembok Beton,0,37,0,0,-8,4,58,33
+DBC0122501,SDS Plus Chisel Flat (20 mm) INGCO DBC0122501 Mata Bor Pahat Bobok Tembok Beton 14 x 250,0,0,0,0,0,0,0,0
+DBC0214001,SDS-Max Chisel Point (18 mm) INGCO DBC0214001 Mata Bor Bobok Pahat Tembok Beton,0,70,0,0,64,4,5,138
+DBC0224001,SDS-Max Chisel Flat (25 mm) INGCO DBC0224001 Mata Bor Bobok Pahat Tembok Beton,0,37,0,0,47,4,3,88
 DBC0415301,SDS-Hex Chisel Point (28 mm) INGCO DBC0415301 - Mata Bor Bobok Mesin Pahat Tembok Beton Jack Hammer,10,15,2,2,5,0,0,34
 DBC0512801,SDS-Hex Chisel Point (17 mm) INGCO DBC0512801 - Mata Bor Bobok Pahat Tembok Beton,0,0,0,0,0,0,0,0
 DBC0522801,SDS-Hex Chisel Flat (22 mm) INGCO DBC0522801 - Mata Bor Bobok Pahat Tembok Beton,0,0,0,0,0,0,0,0
@@ -383,24 +383,24 @@ DBM111061,10-Pcs Masonry Drill (6×100 mm) INGCO DBM111061 Mata Bor Tembok Beton
 DBM111062,5-Pcs Masonry Drill (6×150 mm) INGCO DBM111062 Mata Bor Tembok Beton 6mm 6x150mm,9,21,2,0,2,0,0,34
 DBM111081,10-Pcs Masonry Drill (8×120 mm) INGCO DBM111081 Mata Bor Tembok Beton 8mm 8x120mm,0,5,0,0,0,9,0,14
 DBM111101,10-Pcs Masonry Drill (10×120 mm) INGCO DBM111101 Mata Bor Tembok Beton 10mm 10x120,0,4,0,0,3,4,0,11
-DBT1100303,10-Pcs HSS Steel Drill Bits (3 mm) INGCO DBT1100303 - Mata Bor Besi 3mm,0,321,0,2,34,0,5,357
-DBT1100403,10-Pcs HSS Steel Drill Bits (4 mm) INGCO DBT1100403 - Mata Bor Besi 4mm,0,365,0,0,14,10,5,389
-DBT1100503,10-Pcs HSS Steel Drill Bits (5 mm) INGCO DBT1100503 - Mata Bor Besi 5mm,0,116,0,1,39,0,5,156
+DBT1100303,10-Pcs HSS Steel Drill Bits (3 mm) INGCO DBT1100303 - Mata Bor Besi 3mm,0,318,0,2,34,0,5,354
+DBT1100403,10-Pcs HSS Steel Drill Bits (4 mm) INGCO DBT1100403 - Mata Bor Besi 4mm,0,363,0,0,12,10,5,385
+DBT1100503,10-Pcs HSS Steel Drill Bits (5 mm) INGCO DBT1100503 - Mata Bor Besi 5mm,0,114,0,1,39,0,5,154
 DBT1100603,10-Pcs HSS Steel Drill Bits (6 mm) INGCO DBT1100603 - Mata Bor Besi 6mm,34,189,2,1,26,22,5,274
-DBT1100803,5-Pcs HSS Steel Drill Bits (8 mm) INGCO DBT1100803 Mata Bor Besi 8mm,0,52,1,1,14,0,3,68
+DBT1100803,5-Pcs HSS Steel Drill Bits (8 mm) INGCO DBT1100803 Mata Bor Besi 8mm,0,50,1,1,12,0,3,64
 DBT1101003,5-Pcs HSS Steel Drill Bits (10 mm) INGCO DBT1101003 Mata Bor Besi 10mm,14,6,2,2,19,0,2,43
-DCM2001,Digital LCD Clamp Meter (AC/DC 600V) INGCO DCM2001 Tang Ampere Amper,0,230,0,0,-31,0,250,199
+DCM2001,Digital LCD Clamp Meter (AC/DC 600V) INGCO DCM2001 Tang Ampere Amper,0,228,0,0,209,0,10,437
 DCM6003,Digital Clamp Meter (AC/DC 6000 Count) INGCO DCM6003 Tang Ampere Amper 600V Multi Multimeter,0,0,0,0,0,1,0,1
-DM2002,Digital Multimeter INGCO DM2002 Multitester 600 Volt 10 Ampere Multi AVO Tester Meter Avometer LCD,0,100,0,0,-30,0,130,70
+DM2002,Digital Multimeter INGCO DM2002 Multitester 600 Volt 10 Ampere Multi AVO Tester Meter Avometer LCD,0,98,0,0,90,0,10,188
 DMD011002M,"10-Pcs Diamond Wheel (Dry 4"") INGCO DMD011002M Mata Pisau Potong Marmer Keramik Granit",12,21,0,1,11,8,0,53
-DMD011101,Diamond Wheel (Dry 110mm) INGCO DMD011101 - Mata Gerinda Pisau Kering Potong Keramik Marmer,61,172,0,4,62,10,0,309
-DMD011254,"Diamond Disc for WLC15008 (5"") INGCO DMD011254 Mata Pisau Wall Chaser",0,0,0,0,-5,5,0,0
+DMD011101,Diamond Wheel (Dry 110mm) INGCO DMD011101 - Mata Gerinda Pisau Kering Potong Keramik Marmer,61,172,0,4,60,10,0,307
+DMD011254,"Diamond Disc for WLC15008 (5"") INGCO DMD011254 Mata Pisau Wall Chaser",0,0,0,0,0,0,0,0
 DMD011301,"Diamond Disc for WLC30001 (5"") INGCO DMD011301 Mata Pisau Wall Chaser",15,64,0,0,69,20,0,168
 DMD031051HT,"Diamond Wheel (Wet 4"") INGCO DMD031051HT Mata Pisau Potong Marmer Keramik Granit",0,0,0,0,0,0,0,0
-DMD031801HT,"Diamond Wheel (Wet 7"") INGCO DMD031801HT Mata Pisau Potong Marmer Keramik Granit",7,36,0,2,24,3,2,72
-DP133505,Bench Drill Press (13 mm) INGCO DP133505 Mesin Bor Meja Duduk Listrik 13mm,5,3,0,1,6,0,1,15
+DMD031801HT,"Diamond Wheel (Wet 7"") INGCO DMD031801HT Mata Pisau Potong Marmer Keramik Granit",7,36,0,2,23,3,2,71
+DP133505,Bench Drill Press (13 mm) INGCO DP133505 Mesin Bor Meja Duduk Listrik 13mm,5,2,0,1,6,0,2,14
 DP133505-SP-17,Switch for DP133505-SP-17,0,3,0,0,2,0,0,5
-ED50028,"Electric Drill (10 mm, 500 W) INGCO ED50028 - Bor Kayu Besi Listrik 10mm",9,59,0,2,117,6,0,193
+ED50028,"Electric Drill (10 mm, 500 W) INGCO ED50028 - Bor Kayu Besi Listrik 10mm",9,56,0,2,117,6,1,190
 ED50028-SP-11,Stator for ED50028-SP-11,0,3,0,0,2,0,0,5
 ED50028-SP-13,Rotor for ED50028-SP-13,0,3,0,0,1,0,0,4
 ED50028-SP-15,Carbon brush for ED50028-SP-15,0,7,0,0,3,0,0,10
@@ -408,67 +408,67 @@ ED50028-SP-17,Gear for ED50028-SP-17,0,3,0,0,2,0,0,5
 ED50028-SP-6,Switch for ED50028-SP-6,0,3,0,0,2,0,0,5
 EPB820121,2-Pcs Planer Blade INGCO EPB820121 Mata Pisau Mesin Serut Ketam Kayu Listrik,21,0,0,0,28,0,0,49
 FBLI12152,Baterai S12 (1.5Ah) Power Tools INGCO FBLI12152 - Li-Ion 12V Battery Portable,36,47,0,2,25,17,5,127
-FBLI2001,Baterai P20S (2.0 Ah) Power Tools INGCO FBLI2001 - 20V Li-Ion Battery Portable,0,95,2,0,-146,0,192,-49
-FBLI2002,Baterai P20S (4.0 Ah) Power Tools INGCO FBLI2002 - 20V Li-Ion Battery,0,17,0,0,-71,-2,162,-56
+FBLI2001,Baterai P20S (2.0 Ah) Power Tools INGCO FBLI2001 - 20V Li-Ion Battery Portable,0,79,2,0,32,0,20,113
+FBLI2002,Baterai P20S (4.0 Ah) Power Tools INGCO FBLI2002 - 20V Li-Ion Battery,0,4,0,0,85,-2,16,87
 FBLI2003,Baterai P20S (5.0 Ah) Power Tools INGCO FBLI2003 - 20V Li-Ion Battery,0,0,0,0,0,0,0,0
-FCLI12071,S12 Travel Charger (12V/0.75A) INGCO FCLI12071 - Pengisi Daya Baterai Power Tools 12 V,27,20,0,3,16,0,0,66
-FCLI2001,P20S Fast Charger (20V/2A) INGCO FCLI2001 Pengisi Daya Baterai Cordless Power Tools,17,110,0,4,-81,-3,171,47
-FCLI2003,P20S Rapid Charger (20V/4A) INGCO FCLI2003 Pengisi Daya Baterai Cordless Power Tool,65,138,9,8,109,0,21,329
-FCLI2024,P20S Dual Fast Charger (20V/4A) INGCO FCLI2024 Baterai Cordless Tools,10,19,0,0,8,9,1,46
+FCLI12071,S12 Travel Charger (12V/0.75A) INGCO FCLI12071 - Pengisi Daya Baterai Power Tools 12 V,27,10,0,3,16,0,10,56
+FCLI2001,P20S Fast Charger (20V/2A) INGCO FCLI2001 Pengisi Daya Baterai Cordless Power Tools,17,98,0,4,77,-3,15,193
+FCLI2003,P20S Rapid Charger (20V/4A) INGCO FCLI2003 Pengisi Daya Baterai Cordless Power Tool,65,132,9,8,109,0,27,323
+FCLI2024,P20S Dual Fast Charger (20V/4A) INGCO FCLI2024 Baterai Cordless Tools,10,18,0,0,8,9,2,45
 FDZ1151,10-Pcs Zirconia Flap Disk (P40) INGCO FDZ1151 Mata Gerinda Amplas Poles Stainless Stenlis Zirconium,18,43,2,2,18,8,0,91
 FDZ1152,10-Pcs Zirconia Flap Disk (P60) INGCO FDZ1152 Mata Gerinda Amplas Poles Stainless Stenlis Zirconium,16,43,2,2,18,9,0,90
 FDZ1153,10-Pcs Zirconia Flap Disk (P80) INGCO FDZ1153 Mata Gerinda Amplas Poles Stainless Stenlis Zirconium,16,44,2,2,18,8,0,90
-FS3208,Finishing Sander (180×90 mm) INGCO FS3208 - Mesin Amplas Kotak Halus Finish,23,3,0,2,-1,0,10,27
+FS3208,Finishing Sander (180×90 mm) INGCO FS3208 - Mesin Amplas Kotak Halus Finish,23,2,0,2,9,0,1,36
 FS3208-SP-23,Switch for FS3208-SP-23,0,3,0,0,2,0,0,5
 FS3208-SP-28,Carbon Brush for FS3208-SP-28,0,0,0,0,3,0,0,3
 FS3208-SP-30,Stator for FS3208-SP-30,0,0,0,0,1,0,0,1
 FS3208-SP-34,Rotor for FS3208-SP-34,0,0,0,0,1,0,0,1
-FS35028,Finishing Sander (110×220 mm) INGCO FS35028 Mesin Amplas Kotak Halus,11,53,0,2,42,0,0,108
+FS35028,Finishing Sander (110×220 mm) INGCO FS35028 Mesin Amplas Kotak Halus,11,52,0,2,42,0,1,107
 FS35028-SP-12,Stator for FS35028-SP-12,0,1,0,0,0,0,0,1
 FS35028-SP-17,Rotor for FS35028-SP-17,0,0,0,0,1,0,0,1
 FS35028-SP-21,Switch for FS35028-SP-21,0,7,0,0,3,0,0,10
 FS35028-SP-3,Carbon Brush Set for FS35028-SP-3,0,25,0,0,3,0,0,28
 FS35028-SP-50,Balancer for FS35028-SP-50,0,5,0,0,0,0,0,5
-GG148,Glue Gun (100 W) INGCO GG148 - Alat Lem Tembak Lilin Bakar,71,294,0,4,201,0,1,570
-GG258,Glue Gun (150 W) INGCO GG258 - Alat Lem Tembak Lilin Bakar Panas Cair,82,141,0,2,98,0,0,323
-GG308,Glue Gun (220 W) INGCO GG308 - Mesin Alat Pemanas Tembakan Lem Tembak Lilin Bakar Panas Cair,21,0,0,0,40,0,1,61
-GRG015001,"Grease Gun (400 cc, 4500 Psi) INGCO GRG015001 - Pompa Tembak Tembakan Gemuk Tangan ml",0,0,0,0,0,0,2,0
-HADW131088,"Adjustable Wrench (8"") INGCO HADW131088 Kunci Inggris Gagang Karet Inch",15,39,0,2,85,0,0,141
-HADW131128,"Adjustable Wrench (12"") INGCO HADW131128 Kunci Inggris Gagang Karet Inch",10,0,3,0,3,0,0,16
-HAS20202,Speed Square (18 cm) INGCO HAS20202 - Penggaris Segitiga Siku Tukang,28,430,0,8,393,-1,1,858
+GG148,Glue Gun (100 W) INGCO GG148 - Alat Lem Tembak Lilin Bakar,71,288,0,4,201,0,2,564
+GG258,Glue Gun (150 W) INGCO GG258 - Alat Lem Tembak Lilin Bakar Panas Cair,82,139,0,2,98,0,2,321
+GG308,Glue Gun (220 W) INGCO GG308 - Mesin Alat Pemanas Tembakan Lem Tembak Lilin Bakar Panas Cair,21,0,0,0,38,0,1,59
+GRG015001,"Grease Gun (400 cc, 4500 Psi) INGCO GRG015001 - Pompa Tembak Tembakan Gemuk Tangan ml",0,0,0,0,2,0,0,2
+HADW131088,"Adjustable Wrench (8"") INGCO HADW131088 Kunci Inggris Gagang Karet Inch",15,38,0,2,85,0,0,140
+HADW131128,"Adjustable Wrench (12"") INGCO HADW131128 Kunci Inggris Gagang Karet Inch",10,0,3,0,0,0,0,13
+HAS20202,Speed Square (18 cm) INGCO HAS20202 - Penggaris Segitiga Siku Tukang,28,429,0,8,393,-1,1,857
 HAX0206008,Axe (600g) INGCO HAX0206008 - Kapak Kampak Baja Gagang Fiber Fiberglass Karet,0,0,0,0,0,0,0,0
 HBC0836,"Bolt Cutter (36"") INGCO HBC0836 Gunting Besi Beton Rantai Behel Gembok Kawat",17,17,2,1,5,7,0,49
-HBP0101,Tools Backpack (20 kg) INGCO HBP0101 - Tas Ransel Bag Alat Perkakas Tukang Teknisi,0,37,0,1,-18,0,34,20
+HBP0101,Tools Backpack (20 kg) INGCO HBP0101 - Tas Ransel Bag Alat Perkakas Tukang Teknisi,0,37,0,1,14,0,2,52
 HBSL08040,Masons Level (40 cm) Heavy Duty INGCO HBSL08040 - Waterpass Waterpas Water Pas Bata Hebel Keramik,0,0,0,0,0,0,0,0
 HBT6125,"Bricklaying Trowel (6"") INGCO HBT6125 Sendok Cetok Semen Acian Adukan Inch Inci",219,1394,10,23,403,44,1,2093
 HBV082,Bench Vice (60 mm) INGCO HBV082 Catok Paron Ragum Tanggem Meja Putar,7,18,0,2,18,0,0,45
-HBV084,"Bench Vice (4"") INGCO HBV084 Catok Paron Ragum Tanggem Meja Putar Inch",0,27,0,0,-5,0,17,22
+HBV084,"Bench Vice (4"") INGCO HBV084 Catok Paron Ragum Tanggem Meja Putar Inch",0,27,0,0,11,0,1,38
 HBV086,"Bench Vice (6"") INGCO HBV086 Catok Paron Ragum Tanggem Meja Putar Inch",0,0,0,0,0,0,0,0
 HBV088,"Bench Vice (8"") INGCO HBV088 Catok Paron Ragum Tanggem Meja Putar Inch",0,0,0,0,0,0,0,0
-HCB0651,Hole Core Bit TCT (65mm) INGCO HCB0651 Mata Bor Pelubang Tembok Beton,0,94,0,0,-6,0,113,88
-HCCL852519,Cold Chisel (25x305 mm) INGCO HCCL852519 - Pahat Besi Tembok Dinding Beton Batu Gagang Karet 1 Inch,24,98,5,4,105,10,0,246
-HCCLW0211,C-Clamp Locking Plier (11) INGCO HCCLW0211 - Tang Buaya Catok Jepit Kunci Klem Lock Swivel Pad Inch,0,45,0,1,-13,0,42,33
-HCCPS01180,"4-Pcs Circlip Plier (7"") INGCO HCCPS01180 Tang Snapring Snap Ring 7 Inch",1,109,1,1,16,2,50,130
+HCB0651,Hole Core Bit TCT (65mm) INGCO HCB0651 Mata Bor Pelubang Tembok Beton,0,94,0,0,102,0,5,196
+HCCL852519,Cold Chisel (25x305 mm) INGCO HCCL852519 - Pahat Besi Tembok Dinding Beton Batu Gagang Karet 1 Inch,23,98,5,4,105,10,0,245
+HCCLW0211,C-Clamp Locking Plier (11) INGCO HCCLW0211 - Tang Buaya Catok Jepit Kunci Klem Lock Swivel Pad Inch,0,45,0,1,27,0,2,73
+HCCPS01180,"4-Pcs Circlip Plier (7"") INGCO HCCPS01180 Tang Snapring Snap Ring 7 Inch",1,109,1,1,63,2,0,177
 HCH80808,Claw Hammer (8 oz) INGCO HCH80808 - Palu Kambing Martil Besi 220 Gram,0,0,0,0,0,0,0,0
-HCH80816,Claw Hammer (16 oz) INGCO HCH80816 - Palu Kambing Martil Besi 450 Gram,26,40,9,3,4,17,24,99
+HCH80816,Claw Hammer (16 oz) INGCO HCH80816 - Palu Kambing Martil Besi 450 Gram,26,40,9,3,28,17,0,123
 HCHS8008,Claw Hammer (8 oz) INGCO HCHS8008 - Palu Kambing Martil Besi 220 Gram,8,48,7,1,35,10,0,109
 HCT1001,100-Pcs Cable Ties (10cm Putih) INGCO HCT1001 Tali Kabel Tis Tie Nylon,423,444,0,15,276,98,0,1256
 HCT10201,100Pcs Cable Ties (100cm Putih) INGCO HCT10201 - Tali Ikat Pengikat Kabel Tis Tie Nylon 100 cm,25,63,0,3,48,30,0,169
-HCT2001,100-Pcs Cable Ties (20cm Putih) INGCO HCT2001 Tali Kabel Tis Tie Nylon,150,69,0,6,133,27,0,385
+HCT2001,100-Pcs Cable Ties (20cm Putih) INGCO HCT2001 Tali Kabel Tis Tie Nylon,150,69,0,6,123,27,0,375
 HCT3002,100-Pcs Cable Ties (30cm Putih) INGCO HCT3002 Tali Kabel Tis Tie Nylon,148,317,0,11,176,108,0,760
 HCT4001,100-Pcs Cable Ties (40cm Putih) INGCO HCT4001 Tali Kabel Tis Tie Nylon,72,119,0,10,43,29,0,273
 HCT5001,100-Pcs Cable Ties (50cm Putih) INGCO HCT5001 Tali Kabel Tis Tie Nylon,52,76,0,5,63,16,0,212
 HCT8001,100-Pcs Cable Ties (80cm Putih) INGCO HCT8001 Tali Kabel Tis Tie Nylon,35,285,0,10,99,30,0,459
 HDAR20701,Digital LCD Angle Ruler (40cm) INGCO HDAR20701 - Penggaris Segitiga L Sudut Siku Tukang,-1,5,0,0,3,5,1,12
 HDCP00101,Digital Tread Depth Gauge INGCO HDCP00101 - Alat Ukur Ketebalan Kedalaman Alur Groove Ban Tire Tyre,6,0,2,0,23,10,0,41
-HEP02,2-Pcs Earplug Foam (Corded) INGCO HEP02 - Ear Plug Sumbat Telinga Tali,0,730,0,0,-50,0,700,680
+HEP02,2-Pcs Earplug Foam (Corded) INGCO HEP02 - Ear Plug Sumbat Telinga Tali,0,730,0,0,450,0,200,1180
 HES03041V,Stop Kontak Terminal (4 Switch) INGCO HES03041V Colokan Listrik Lubang,16,39,0,2,49,0,0,106
 HES13041VSB,Stop Kontak Terminal (2xUSB 2.1A) INGCO HES13041VSB Colokan 3 Lubang Saklar Fast Charger Charging,34,93,0,2,18,38,1,185
 HES23042V,Stop Kontak Terminal (1Switch) INGCO HES23042V Colokan 4 Lubang Saklar,20,80,0,2,21,19,0,142
-HETWM01,Wood Moisture Meter INGCO HETWM01 - Alat Ukur Kadar Air Kelembaban Kayu Semen Gipsum Bata Hebel,0,4,0,0,3,0,0,7
+HETWM01,Wood Moisture Meter INGCO HETWM01 - Alat Ukur Kadar Air Kelembaban Kayu Semen Gipsum Bata Hebel,0,3,0,0,3,0,0,6
 HFC020501,Klem F Clamp (50×150 mm) INGCO HFC020501 Catok Jepit Penjepit Tukang Kayu Kaca,12,195,0,4,138,0,0,349
-HFC020502,Klem F Clamp (50×200 mm) INGCO HFC020502 Catok Jepit Penjepit Tukang Kayu Kaca,0,83,0,0,-54,-2,153,27
-HFC020503,Klem F Clamp (50×250 mm) INGCO HFC020503 Catok Jepit Penjepit Kayu Kaca,6,144,0,1,102,0,104,253
+HFC020502,Klem F Clamp (50×200 mm) INGCO HFC020502 Catok Jepit Penjepit Tukang Kayu Kaca,0,71,0,0,96,-2,3,165
+HFC020503,Klem F Clamp (50×250 mm) INGCO HFC020503 Catok Jepit Penjepit Kayu Kaca,6,134,0,1,202,0,4,343
 HFC020802,Klem F Clamp (80×300 mm) INGCO HFC020802 Catok Jepit Penjepit Kayu Kaca,12,32,0,2,12,6,1,64
 HFC021201,Klem F Clamp (120×300 mm) INGCO HFC021201 Catok Jepit Penjepit Tukang Kayu Kaca,28,33,0,2,4,5,0,72
 HFC021202,Klem F Clamp (120×500mm) INGCO HFC021202 Catok Jepit Penjepit Kayu Kaca,0,0,0,0,0,0,0,0
@@ -478,8 +478,8 @@ HFC021205,Klem F Clamp (120×600 mm) INGCO HFC021205 Catok Jepit Penjepit Kayu K
 HFC021401,Klem F Clamp (140×1200 mm) INGCO HFC021401 Catok Jepit Jepitan Kayu Kaca,0,5,0,0,0,0,0,5
 HFC021404,Klem F Clamp (140×1000 mm) INGCO HFC021404 Catok Jepit Jepitan Kayu Kaca,0,2,0,0,0,0,0,2
 HFSPC01,Impact Resistant Visor INGCO HFSPC01 Safety Mask Face Shield Kedok Pelindung Wajah,5,16,2,2,6,10,0,41
-HFSW1808,"Folding Saw (7""/180mm) Fast Cut INGCO HFSW1808 Gergaji Kayu Pipa Lipat Portable",1,133,0,0,-64,0,149,70
-HG200028,Heat Gun (2000W 50-570C) INGCO HG200028 Blower 3-Level Panas Hot Gun,0,29,0,0,-48,0,53,-19
+HFSW1808,"Folding Saw (7""/180mm) Fast Cut INGCO HFSW1808 Gergaji Kayu Pipa Lipat Portable",1,132,0,0,80,0,5,213
+HG200028,Heat Gun (2000W 50-570C) INGCO HG200028 Blower 3-Level Panas Hot Gun,0,25,0,0,0,0,7,25
 HG200028-1,Heat Gun LCD Digital (2000W 50-630°C) INGCO HG200028-1 Hot Gun Blower Panas Pemanas Angin Heater,13,21,0,2,18,0,2,54
 HG200028-SP-10,Motor for HG200028-SP-10,0,3,0,0,2,0,0,5
 HG200028-SP-13/14/15,Switch Assembly for HG200028,0,0,0,0,0,0,0,0
@@ -488,10 +488,10 @@ HGC0104,"Klem C/G Clamp (4"") INGCO HGC0104 Catok Jepit Press Kayu Besi Inch Inc
 HGC0105,"Klem C/G Clamp (5"") INGCO HGC0105 Catok Jepit Press Kayu Besi Inch Inci",27,66,0,4,24,12,-2,133
 HGC0106,"Klem C/G Clamp (6"") INGCO HGC0106 Catok Jepit Press Kayu Besi Inch Inci",25,56,0,4,5,5,2,95
 HGCG01,Cut Resistant Gloves INGCO HGCG01 Sarung Tangan Anti Pisau Bacok Tusuk Sajam,0,0,0,0,0,-1,0,-1
-HGCT03,Glass Cutter Knife INGCO HGCT03 Pisau Potong Pemotong Kaca Minyak Auto Oil Feed Rolling,0,-6,0,0,-320,5,321,-321
-HGCT16001,Compass Glass Cutter (600mm) INGCO HGCT16001 Alat Potong Kaca Bulat,0,11,0,0,-5,0,40,6
-HGMG01,Mechanic Glove INGCO HGMG01-XL - Sarung Tangan Kerja Mekanik Teknisi Mesin,0,61,0,0,-194,0,262,-133
-HGNG01,12-Pcs Nitrile Gloves INGCO HGNG01 Sarung Tangan Karet Kerja Proyek Industri,0,0,0,0,-25,0,27,-25
+HGCT03,Glass Cutter Knife INGCO HGCT03 Pisau Potong Pemotong Kaca Minyak Auto Oil Feed Rolling,0,0,0,0,0,5,1,5
+HGCT16001,Compass Glass Cutter (600mm) INGCO HGCT16001 Alat Potong Kaca Bulat,0,11,0,0,35,0,0,46
+HGMG01,Mechanic Glove INGCO HGMG01-XL - Sarung Tangan Kerja Mekanik Teknisi Mesin,0,61,0,0,58,0,10,119
+HGNG01,12-Pcs Nitrile Gloves INGCO HGNG01 Sarung Tangan Karet Kerja Proyek Industri,0,0,0,0,2,0,0,2
 HGVK05,12-Pcs PVC Dotted Gloves INGCO HGVK05 Sarung Tangan Kerja Proyek Benang Rajut Bintik Karet Anti-Slip,0,0,0,0,0,0,0,0
 HGVL08,Latex Safety Gloves INGCO HGVL08 - Sarung Tangan Karet Kerja Proyek Industri,0,0,0,0,0,6,1,6
 HGVW02,"Leather Welding Glove (16"") INGCO HGVW02 Sarung Tangan Las Kulit Argon",0,0,0,0,0,0,0,0
@@ -501,7 +501,7 @@ HHCP28180,"Cr-V High Leverage Combination Plier (7 Inch) INGCO Tang Kombinasi 7"
 HHCT01240,Hydraulic Crimping Tool (70kN) INGCO HHCT01240 - Tang Press Skun Krimping Hidrolik Hidrolis,0,0,0,0,3,5,0,8
 HHCT0170,Hydraulic Crimping (70mm 45kN) INGCO HHCT0170 Tang Press Skun Hidrolik,1,11,0,1,16,0,0,29
 HHF3008,"Heavy Duty Hacksaw Frame (12"") INGCO HHF3008 - Pegangan Stang Gagang Handle Gergaji Besi",62,139,10,4,65,35,1,315
-HHF3028,"Hacksaw Frame (12""/300mm) INGCO HHF3028 Stang Gagang Pegangan Handle Gergaji Besi Inch",33,100,10,3,82,14,0,242
+HHF3028,"Hacksaw Frame (12""/300mm) INGCO HHF3028 Stang Gagang Pegangan Handle Gergaji Besi Inch",33,99,10,3,82,14,0,241
 HHIS0130L,"1"" DR Impact Socket (30mm Cr-Mo) INGCO HHIS0130L Sok Soket Shock Inch",4,8,0,2,7,8,0,29
 HHIS0132L,"1"" DR Impact Socket (32mm Cr-Mo) INGCO HHIS0132L Sok Soket Shock Inch",0,0,0,0,0,5,0,5
 HHIS0133L,"1"" DR Impact Socket (33mm Cr-Mo) INGCO HHIS0133L Sok Soket Shock Inch",0,0,0,0,0,0,0,0
@@ -512,51 +512,51 @@ HHIS0141L,"1"" DR Impact Socket (41mm Cr-Mo) INGCO HHIS0141L Sok Soket Shock Inc
 HHIS0142L,"1"" DR Impact Socket (42mm Cr-Mo) INGCO HHIS0142L Sok Soket Shock Inch",6,17,0,2,6,9,0,40
 HHIS0146L,"1"" DR Impact Socket (46mm Cr-Mo) INGCO HHIS0146L Sok Soket Shock Inch",0,0,0,0,2,0,0,2
 HHIS0148L,"1"" DR Impact Socket (48mm Cr-Mo) INGCO HHIS0148L Sok Soket Shock Inch",4,9,0,2,4,5,0,24
-HHK11091,9-Pcs Cr-V Long Hex Key Set (L1.5-L10) INGCO HHK11091 Kunci L Panjang,0,76,1,0,-96,-1,154,-20
-HHK12092,9-Pcs Ball Point Hex Key INGCO HHK12092 Kunci L Ballpoint Bulat Panjang Anti-Karat Chrome Vanadium,90,161,10,15,86,23,0,385
-HHK13091,9-Pcs Cr-V Long Torx Key Set (T10-T50) INGCO HHK13091 Kunci L Bintang Chrome,52,17,5,1,36,-1,0,110
-HHK14082,Ball Point Hex Key (Fold 2-8mm) INGCO HHK14082 - Kunci L Bola Lipat Tool Sepeda Portable,56,184,4,6,89,18,1,357
-HHKSET0181,18-Pcs Cr-V Long Hex  Torx Key Set INGCO HHKSET0181 Paket Kunci L Bintang,7,12,3,0,0,0,0,22
+HHK11091,9-Pcs Cr-V Long Hex Key Set (L1.5-L10) INGCO HHK11091 Kunci L Panjang,0,76,1,0,48,-1,10,124
+HHK12092,9-Pcs Ball Point Hex Key INGCO HHK12092 Kunci L Ballpoint Bulat Panjang Anti-Karat Chrome Vanadium,89,161,10,15,86,23,0,384
+HHK13091,9-Pcs Cr-V Long Torx Key Set (T10-T50) INGCO HHK13091 Kunci L Bintang Chrome,52,16,5,1,36,-1,0,109
+HHK14082,Ball Point Hex Key (Fold 2-8mm) INGCO HHK14082 - Kunci L Bola Lipat Tool Sepeda Portable,56,184,4,6,89,17,1,356
+HHKSET0181,18-Pcs Cr-V Long Hex  Torx Key Set INGCO HHKSET0181 Paket Kunci L Bintang,7,12,3,0,-3,0,0,19
 HHKT8081,8-Pcs T-Handle Hex Wrench Set (T2-T10) INGCO HHKT8081 Kunci L Gagang Model T,1,0,0,0,0,-1,0,0
 HHKT8083,8-Pcs T-Handle Torx Wrench (T10-50) INGCO HHKT8083 Paket Set Kunci Bintang Gagang T,0,0,0,0,2,3,0,5
 HHS62011,"Hedge Shear (22"") INGCO HHS62011 - Gunting Rumput Dahan Pagar Tanaman Semak Daun Besar Inch",0,0,0,0,0,0,0,0
 HJS0301,2-Pcs Jack Stand Set (3 ton) INGCO HJS0301 - Tahanan Ganjalan Ganjal Dongkrak Mobil,1,0,0,0,10,8,0,19
-HKHLPS2831,3-Pcs Cr-V High Leverage Pliers Set INGCO HKHLPS2831 Paket Tang Potong Jepit,0,39,0,0,-45,0,63,-6
+HKHLPS2831,3-Pcs Cr-V High Leverage Pliers Set INGCO HKHLPS2831 Paket Tang Potong Jepit,0,39,0,0,12,0,3,51
 HKISD0608,6-Pcs Insulated Screwdriver Set INGCO HKISD0608 Obeng Isolator Tukang Listrik,0,0,0,0,0,0,0,0
-HKISSD12101,"10-Pcs 1/2"" Impact Socket Set INGCO HKISSD12101 Paket Kunci Sok Soket .5 Inch",16,15,0,2,22,0,1,55
-HKISSD12102L,10-Pcs 1/2 Deep Impact Socket Set (78mm Cr-Mo) INGCO HKISSD12102L - Mata Kunci Sok Soket Panjang,17,0,0,2,17,0,0,36
-HKNS16518,Snap-Off Blade Knife (18 mm) INGCO HKNS16518 Cutter Besar 18mm Retract,0,211,1,0,-528,0,626,-316
-HKNS1806,Box Cutter Small (9 mm) INGCO HKNS1806 - Knife Blade Kecil 9mm Retract,365,244,0,85,250,20,0,964
+HKISSD12101,"10-Pcs 1/2"" Impact Socket Set INGCO HKISSD12101 Paket Kunci Sok Soket .5 Inch",16,10,0,2,22,0,1,50
+HKISSD12102L,10-Pcs 1/2 Deep Impact Socket Set (78mm Cr-Mo) INGCO HKISSD12102L - Mata Kunci Sok Soket Panjang,17,0,0,2,16,0,0,35
+HKNS16518,Snap-Off Blade Knife (18 mm) INGCO HKNS16518 Cutter Besar 18mm Retract,0,211,1,0,48,0,50,260
+HKNS1806,Box Cutter Small (9 mm) INGCO HKNS1806 - Knife Blade Kecil 9mm Retract,365,243,0,85,250,20,0,963
 HKNSB0901,10Pcs Box Cutter Blade (9mm SK5) INGCO HKNSB0901 Refill Isi Mata Pisau Kecil,52,240,8,2,234,115,20,651
-HKNSB112,10Pcs Box Cutter Blade (18mm SK5) INGCO HKNSB181 Refill Isi Mata Besar,0,484,0,0,-360,0,650,124
+HKNSB112,10Pcs Box Cutter Blade (18mm SK5) INGCO HKNSB181 Refill Isi Mata Besar,0,484,0,0,240,0,50,724
 HKNSB181,10Pcs Box Cutter Blade (18mm SK5) INGCO HKNSB181 Refill Isi Mata Besar,0,0,0,0,0,0,0,0
 HKPS28318,3-Pcs Cr-V Pliers Set INGCO HKPS28318 - Paket Tang Potong Jepit Chrome,1,19,0,1,26,0,0,47
 HKSD0628,6-Pcs Cr-V Screwdriver Set INGCO HKSD0628 - Obeng Plus Minus Chrome,0,-1,0,0,0,0,0,-1
-HKSD1828,18-Pcs Screwdriver  Precision Driver Set INGCO HKSD1828 Obeng Presisi Reparasi Jam Handphone Laptop,0,31,0,1,-30,0,72,2
-HKSDB0188,24-Pcs T-Handle Wrench Screwdriver Set INGCO HKSDB0188 Toolkit Sepeda Obeng Gagang,0,105,3,0,-96,0,185,12
+HKSD1828,18-Pcs Screwdriver  Precision Driver Set INGCO HKSD1828 Obeng Presisi Reparasi Jam Handphone Laptop,0,31,0,1,40,0,2,72
+HKSDB0188,24-Pcs T-Handle Wrench Screwdriver Set INGCO HKSDB0188 Toolkit Sepeda Obeng Gagang,0,105,3,0,84,0,5,192
 HKSDB0348,32-Pcs Precision Screwdriver Set INGCO HKSDB0348 Obeng Presisi Reparasi Handphone Laptop,5,33,3,3,38,0,0,82
 HKSDB0478,47-Pcs T-Handle Wrench Screwdriver Set INGCO HKSDB0478 Kunci Obeng T Toolkit Sepeda Lengkap,16,46,3,2,9,3,0,79
 HKSDB0558,55-Pcs Precision Screwdriver Set INGCO HKSDB0558 Obeng Presisi Tool Reparasi Jam Handphone Laptop,0,0,0,2,30,10,0,42
 HKSPA1142,12-Pcs Combination Spanner Set (6-24 mm) INGCO HKSPA1142 Paket Kunci Ring Pas,0,7,0,2,22,0,0,31
 HKSPA1143,12-Pcs Combination Spanner Set (6-32 mm) INGCO HKSPA1143 Paket Kunci Ring Pas,3,14,0,2,22,3,0,44
-HKSPA2142,12-Pcs Double Open End Spanner Set (6-32 mm) INGCO HKSPA2142 Paket Kunci Pas 2-Sisi,5,17,0,2,10,0,0,34
-HKSPA3142,12-Pcs Offset Ring Spanner Set (6-32 mm) INGCO HKSPA3142 Paket Kunci Ring,3,6,0,0,1,3,0,13
+HKSPA2142,12-Pcs Double Open End Spanner Set (6-32 mm) INGCO HKSPA2142 Paket Kunci Pas 2-Sisi,5,17,0,2,7,0,0,31
+HKSPA3142,12-Pcs Offset Ring Spanner Set (6-32 mm) INGCO HKSPA3142 Paket Kunci Ring,3,6,0,0,-2,3,0,10
 HKSPAR1082,8-Pcs Ratchet Spanner Set (8-19mm) INGCO HKSPAR1082 - Kunci Ring Pas Ratcheting Cr-V Cr-Mo,12,29,0,3,39,3,0,86
 HKTAC010671,67-Pcs Screw  Drill Bits INGCO HKTAC010671 - Paket Mata Bor Tembok Besi Kayu,0,0,0,0,0,0,0,0
-HKTCB032301,"3-in-1 Roller Brush (9"") INGCO HKTCB032301 Gagang Bulu Rol Roll Bak Cat",0,0,0,0,4,4,0,8
+HKTCB032301,"3-in-1 Roller Brush (9"") INGCO HKTCB032301 Gagang Bulu Rol Roll Bak Cat",0,0,0,0,4,3,0,7
 HKTCB121001,"Roller Brush Set 12-in-1 (4""/100 mm) INGCO HKTCB121001 Paket Kuas Bulu Roll Rol Cat",15,48,0,3,7,5,0,78
 HKTCB83230083,8-in-1 Painting Set INGCO HKTCB83230083 Paket Gagang Rol Roll Kuas Bulu Bak Cat,0,0,0,0,0,0,0,0
-HKTF63,6-Pcs Mini File Set (140 mm) INGCO HKTF63 Paket Kikir Kecil Ukir Tukang Kayu Pengrajin Besi,0,305,0,0,-101,3,248,207
+HKTF63,6-Pcs Mini File Set (140 mm) INGCO HKTF63 Paket Kikir Kecil Ukir Tukang Kayu Pengrajin Besi,0,304,0,0,127,3,20,434
 HKTFS0508,"5-Pcs Steel File Set (8"") INGCO HKTFS0508 - Kikir Besi Kotak Segitiga",29,88,0,2,82,16,0,217
 HKTFS1308,"3-Pcs Steel File Set (8"") INGCO HKTFS1308 Kikir Besi Gepeng Bulat 8 Inch",27,69,2,2,53,1,0,154
-HKTFW0308,"3-Pcs Wood File Set (8"") INGCO HKTFW0308 - Paket Kikir Tukang Kayu Pengrajin Ukir Inch",25,43,0,2,37,7,0,114
-HKTS0243,"24-Pcs 1/2"" Socket Set INGCO HKTS0243 Paket Tools Kunci Sok Soket Inch",17,16,0,1,8,4,0,46
+HKTFW0308,"3-Pcs Wood File Set (8"") INGCO HKTFW0308 - Paket Kikir Tukang Kayu Pengrajin Ukir Inch",25,43,0,2,36,7,0,113
+HKTS0243,"24-Pcs 1/2"" Socket Set INGCO HKTS0243 Paket Tools Kunci Sok Soket Inch",17,16,0,1,5,4,0,43
 HKTS034151,15-Pcs 3/4 Ratchet Socket Set INGCO HKTS034151 Paket Toolset Kunci Sok Shock Soket Ratcheting Cr-V,3,1,0,0,2,1,0,7
 HKTS12101,10-Pcs 1/2 Socket Set INGCO HKTS12101 Paket Toolset Kunci Sok Soket Shock Inch Chrome Vanadium Cr-V,34,57,0,1,35,2,0,129
-HKTS14451,"45-Pcs 1/4"" Socket Set INGCO HKTS14451 Paket Tools Kunci Sok Shock Soket Inch",1,2,0,0,14,0,0,17
+HKTS14451,"45-Pcs 1/4"" Socket Set INGCO HKTS14451 Paket Tools Kunci Sok Shock Soket Inch",1,1,0,0,12,0,0,14
 HKTV01P051,5-Pcs Insulated Hand Toolset INGCO HKTV01P051 Perkakas Teknisi Tukang Listrik,0,0,0,0,0,0,0,0
 HKTWC0401,4-Pcs Wood Chisel Set (6-25 mm) INGCO HKTWC0401 Paket Pahat Tatah Ukir Tukang Kayu,21,76,0,2,21,13,0,133
-HLHD12121,"Offset L-Handle (1/2"") INGCO HLHD12121 - Gagang Stang Kunci Sok Sock Soket Shock L",75,186,10,5,64,54,1,394
+HLHD12121,"Offset L-Handle (1/2"") INGCO HLHD12121 - Gagang Stang Kunci Sok Sock Soket Shock L",75,186,10,5,63,54,1,393
 HLL306505,Self-Leveling Laser (Red 5-Line) INGCO HLL306505 Waterpass Waterpas Digital Level Leveler,0,0,0,0,0,0,0,0
 HLLT01152,Tripod Laser Level (1.2 m) INGCO HLLT01152 Cross Line Waterpas Digital,0,0,0,0,0,0,0,0
 HMBC0808,Gunting Kawat Jari-jari Mini Bolt Cutter 8 Inch INGCO HMBC0808,0,0,0,0,0,0,0,0
@@ -564,25 +564,25 @@ HMBS3008,Mitre Box  Back Saw Set INGCO HMBS3008 - Gergaji Miter Sudut Pigura Edg
 HMBSB3008,"Back Saw (12"") INGCO HMBSB3008 Gergaji Kayu Presisi Backsaw Sudut Pigura Inch Inci",30,26,0,2,25,26,0,109
 HMCH80808D,Mini Claw Hammer (8oz) INGCO HMCH80808D Palu Martil Kambing Kecil Cebol Mini Besi,0,0,8,0,6,7,0,21
 HMHS83001,Machinist Hammer (300g) INGCO HMHS83001 - Palu Tukang Kaca Besi Mekanik Lancip Gagang Fiber,66,145,4,4,64,51,0,334
-HMPCN2468R,3-in-1 Modular Plug Crimper 8 (RJ45-RJ11) INGCO Tang Crimping Network,0,61,0,0,-3,0,77,58
-HMPS06115,Tang Mini Set 6Pcs INGCO HMPS06115,0,63,0,0,-22,0,80,41
-HNMLNS031,3Pcs Non-Marring Lug Nut (1/2) INGCO HNMLNS031 Kunci Velg Anti Lecet,0,43,0,0,0,0,52,43
+HMPCN2468R,3-in-1 Modular Plug Crimper 8 (RJ45-RJ11) INGCO Tang Crimping Network,0,61,0,0,69,0,5,130
+HMPS06115,Tang Mini Set 6Pcs INGCO HMPS06115,0,63,0,0,53,0,5,116
+HNMLNS031,3Pcs Non-Marring Lug Nut (1/2) INGCO HNMLNS031 Kunci Velg Anti Lecet,0,43,0,0,50,0,2,93
 HPC0142,Tube Pipe Cutter (10-42 mm) INGCO HPC0142 Alat Potong Putar Pemotong Pipa AC Tembaga Besi,0,23,0,2,24,4,0,53
-HPC0232,Tube Pipe Cutter (3-32 mm) INGCO HPC0232 - Alat Potong Putar Pemotong Pipa AC Tembaga Besi,0,0,0,0,-49,0,49,-49
+HPC0232,Tube Pipe Cutter (3-32 mm) INGCO HPC0232 - Alat Potong Putar Pemotong Pipa AC Tembaga Besi,0,0,0,0,0,0,0,0
 HPC0543,PVC Pipe Cutter (3-42mm) INGCO HPC0543 - Gunting Potong Pemotong Pipa Air PVC,0,-2,0,0,0,0,0,-2
-HPCS05428,PVC Pipe Cutter (3-42mm) INGCO HPC0543 - Gunting Pemotong Pipa Air PVC,0,25,0,0,-116,0,149,-91
-HPK82001,Cable Stripping Knife (Curved 8) INGCO HPK82001 Pisau Bengkok Kupas Pengupas Kabel Stainless Steel,5,7,0,3,4,0,12,19
-HPK82101,Cable Stripping Knife (Straight 8) INGCO HPK82101 Pisau Lurus Kupas Pengupas Kabel Stainless Steel,0,7,2,1,7,2,0,19
+HPCS05428,PVC Pipe Cutter (3-42mm) INGCO HPC0543 - Gunting Pemotong Pipa Air PVC,0,25,0,0,28,0,5,53
+HPK82001,Cable Stripping Knife (Curved 8) INGCO HPK82001 Pisau Bengkok Kupas Pengupas Kabel Stainless Steel,4,7,0,3,11,0,0,25
+HPK82101,Cable Stripping Knife (Straight 8) INGCO HPK82101 Pisau Lurus Kupas Pengupas Kabel Stainless Steel,0,7,2,1,-1,2,0,11
 HPP68258,"Pump Pliers (10"") INGCO HPP68258 - Tang Burung Kunci Jepit Pipa Pompa Air Water Inch",87,336,8,7,45,41,0,524
-HPS0201,"Pruning Shear (8"") INGCO HPS0201 Gunting Dahan Batang Daun Bonsai Taman Tukang Kebun Inch",0,3,2,4,19,6,0,34
-HPTW200N1,"Torque Wrench (1/2"" 40-200Nm) INGCO HPTW200N1 Kunci Momen Torsi Moment",0,14,0,0,0,0,8,14
+HPS0201,"Pruning Shear (8"") INGCO HPS0201 Gunting Dahan Batang Daun Bonsai Taman Tukang Kebun Inch",0,3,2,4,17,6,0,32
+HPTW200N1,"Torque Wrench (1/2"" 40-200Nm) INGCO HPTW200N1 Kunci Momen Torsi Moment",0,14,0,0,4,0,2,18
 HPUT686063,"Putty Trowel (2.5"") INGCO HPUT686063 - Kape Skrap Scrap Scrapper Dempul Inch",37,676,13,24,159,17,0,926
 HPW0812,"Pipe Wrench (12"") INGCO HPW0812 - Kunci Pipa PVC/Besi 12 Inch Inci",0,0,0,0,0,0,0,0
 HPW0818,"Pipe Wrench (18"") INGCO HPW0818 - Kunci Pipa PVC/Besi 18 Inch Inci",0,2,0,0,0,1,0,3
 HPW0836,"Pipe Wrench (36"") INGCO HPW0836 - Kunci Pipa PVC/Besi 36 Inch Inci",0,3,0,1,0,5,0,9
 HPW1410,Ratcheting Pipe Wrench (10) INGCO HPW1410 - Kunci Pipa Besi Ratchet Per Pegas Otomatis Inch Steel,0,0,0,0,0,0,0,0
 HPW1414,"Ratcheting Pipe Wrench (14"") INGCO HPW1414 Kunci Pipa Ratchet Otomatis",20,21,0,2,15,9,0,67
-HPWR14008,Jet Cleaner (130 Bar) INGCO HPWR14008 - Mesin Pompa Cuci Steam Pressure Washer Mobil Motor Taman,0,7,0,0,7,0,1,14
+HPWR14008,Jet Cleaner (130 Bar) INGCO HPWR14008 - Mesin Pompa Cuci Steam Pressure Washer Mobil Motor Taman,0,5,0,0,7,0,3,12
 HPWR14008-SP-4-A,pump  assembly for HPWR14008,0,0,0,0,0,0,0,0
 HPWR14008-SP-C.B,Carbon Brush for HPWR14008-SP-C.B,0,10,0,0,0,0,0,10
 HPWR14008-SP-E-22,chief valve assy for HPWR14008-SP-E-22,0,20,0,0,0,0,0,20
@@ -591,77 +591,77 @@ HPWR18008-SP-39,Automatic Spring for HPWR18008 SP-39,0,5,0,0,3,0,0,8
 HPWR18008-SP-39-B,Motor for HPWR18008-SP-39-B,0,0,0,0,0,0,0,0
 HPWR18008-SP-C.B,Carbon Brush for HPWR18008-SP-C.B,0,0,0,0,0,0,0,0
 HPWR18008-SP-E-26,valve assembly for HPWR18008-SP-E-26,0,20,0,0,0,0,0,20
-HPWR20008,Brushless Jet Cleaner (150 Bar) INGCO HPWR20008 - Mesin Pompa Cuci Steam Pressure Washer Mobil Motor,0,7,0,0,6,2,0,15
+HPWR20008,Brushless Jet Cleaner (150 Bar) INGCO HPWR20008 - Mesin Pompa Cuci Steam Pressure Washer Mobil Motor,0,5,0,0,6,2,2,13
 HPWR20008-SP-15-A,Pump for HPWR20008 SP-15 A,0,0,0,0,0,0,0,0
 HPWR20008-SP-15-A (5),Seal for HPWR20008 SP-15 A,0,0,0,0,0,0,0,0
 HPWR20008-SP-15-A (5/7),Seal for HPWR20008 SP-15 A (5/7),0,3,0,0,0,0,0,3
 HPWR20008-SP-E-3,Bearing for HPWR20008 SP-E-3,0,0,0,0,0,0,0,0
 HPWR20008-SP-INLET.VALVE,YLP08Z.1 Inlet Valve Assy for HPWR20008-SP-INLET.VALVE,0,20,0,0,0,0,0,20
-HQBC01601,"Klem F/Bar Clamp (6"") Quick Release INGCO HQBC01601 - Catok Jepit Kayu Kaca Easy Clamping",0,3,0,1,-12,1,30,-7
-HQBC01602,"Klem F/Bar Clamp (12"") Quick Release INGCO HQBC01602 - Catok Jepit Kayu Kaca Easy Clamping",4,143,0,4,13,0,60,164
-HQBC01603,"Klem F/Bar Clamp (18"") Quick Release INGCO HQBC01603 - Catok Jepit Kayu Kaca Easy Clamping",3,60,0,0,-48,0,89,15
-HQSC0204,"Spring Clamp (4"") INGCO HQSC0204 Catok Klem Quick Clip Klip Jepit Kayu Easy Clamping",0,895,0,9,-247,-6,720,651
+HQBC01601,"Klem F/Bar Clamp (6"") Quick Release INGCO HQBC01601 - Catok Jepit Kayu Kaca Easy Clamping",0,3,0,1,18,1,0,23
+HQBC01602,"Klem F/Bar Clamp (12"") Quick Release INGCO HQBC01602 - Catok Jepit Kayu Kaca Easy Clamping",4,143,0,4,73,0,0,224
+HQBC01603,"Klem F/Bar Clamp (18"") Quick Release INGCO HQBC01603 - Catok Jepit Kayu Kaca Easy Clamping",3,60,0,0,36,0,5,99
+HQSC0204,"Spring Clamp (4"") INGCO HQSC0204 Catok Klem Quick Clip Klip Jepit Kayu Easy Clamping",0,893,0,9,473,-6,0,1369
 HQSC0206,"Spring Clamp (6"") INGCO HQSC0206 Catok Klem Quick Clip Klip Jepit Kayu Easy Clamping",0,0,0,5,97,-1,0,101
 HR104,"Hand Riveter (10.5"") INGCO HR104 Tang Rivet Riveting Ripet Rifet Inch",5,21,0,2,12,0,0,40
-HRC0925522,"Roll Refill Exterior (10""/255 mm) INGCO HRC0925522 - Isi Ulang Bulu Rol Cat Tembok Luar",127,240,0,14,109,66,0,556
-HRC3323014,"Roll Refill Interior (9""/230 mm) INGCO HRC3323014 - Isi Bulu Rol Cat",73,181,0,6,68,20,0,348
+HRC0925522,"Roll Refill Exterior (10""/255 mm) INGCO HRC0925522 - Isi Ulang Bulu Rol Cat Tembok Luar",127,238,0,14,109,66,0,554
+HRC3323014,"Roll Refill Interior (9""/230 mm) INGCO HRC3323014 - Isi Bulu Rol Cat",73,181,0,6,68,15,0,343
 HRC3323018,"Roll Refill Exterior (9""/230 mm) INGCO HRC3323018 - Isi Bulu Rol Cat",150,221,0,4,69,52,0,496
 HRC5610012,"10-Pcs Roller Brush (4""/100 mm) INGCO HRC5610012 Refill Isi Kuas Bulu Rol Roll Cat",30,366,0,6,441,2,0,845
-HRCPC0506,Ratchet Crimping Plier (6 mm) INGCO HRCPC0506 Tang Press Skun Krimping,0,36,0,4,92,0,0,132
-HRCPG05210,"Ratchet Crimping Plier (6"") INGCO HRCPG05210 - Tang Press Skun Krimping 10mm Ratcheting",9,48,0,2,94,0,0,153
-HRCPL1506,"Ratchet Crimping Plier (9"") INGCO HRCPL1506 - Tang Press Skun Krimping 6mm Ratcheting",39,73,0,3,32,8,0,155
+HRCPC0506,Ratchet Crimping Plier (6 mm) INGCO HRCPC0506 Tang Press Skun Krimping,0,30,0,4,87,0,0,121
+HRCPG05210,"Ratchet Crimping Plier (6"") INGCO HRCPG05210 - Tang Press Skun Krimping 10mm Ratcheting",9,43,0,2,94,0,0,148
+HRCPL1506,"Ratchet Crimping Plier (9"") INGCO HRCPL1506 - Tang Press Skun Krimping 6mm Ratcheting",39,68,0,3,32,8,0,150
 HRHT052301,"Roller Brush Interior (9"") INGCO HRHT052301 - Handle Gagang Rol Roll Cat Tembok",0,0,0,0,0,0,0,0
-HRHT061001D,Cylinder Brush Interior (4) INGCO HRHT061001D Handle Gagang Kuas Roll Rol Cat Tembok,0,240,0,0,-110,-1,320,129
-HRHT092551,"Roller Brush Exterior (10"") INGCO HRHT092551 Handle Gagang Rol Roll Cat Tembok",0,0,0,0,2,1,0,3
+HRHT061001D,Cylinder Brush Interior (4) INGCO HRHT061001D Handle Gagang Kuas Roll Rol Cat Tembok,0,240,0,-1,190,-1,20,428
+HRHT092551,"Roller Brush Exterior (10"") INGCO HRHT092551 Handle Gagang Rol Roll Cat Tembok",0,0,0,0,1,1,0,2
 HRHT442302T,"Telescopic Roller Brush (9"") INGCO HRHT442302T Gagang Teleskopik Bulu Rol Roll Cat",0,2,0,0,12,2,0,16
 HRPH8140,Combo Hammer (40 mm) INGCO HRPH8140 - Palu Martil Karet Nylon Plastik Gagang Fiberglass,0,0,0,0,0,0,0,0
 HRTH0812,"Ratchet Socket Wrench (1/2"" 45T) INGCO HRTH0812 Gagang Kunci Handle Sok Socket Inch",0,0,0,0,28,10,0,38
 HRTH0814,"Ratchet Socket Wrench (1/4"" 45T) INGCO HRTH0814 Gagang Kunci Handle Sok Soket Inch",5,0,4,2,1,5,0,17
 HRTH0838,"Ratchet Socket Wrench (3/8"" 45T) INGCO HRTH0838 Kunci Handle Sok Inch",1,0,0,0,17,5,1,23
 HRUH8208,Rubber Mallet (8 oz) INGCO HRUH8208 - Hammer Palu Karet Malet Keramik Marmer Granit,0,25,0,4,85,0,0,114
-HRUH8316,Soft Rubber Mallet (16 oz) INGCO HRUH8316 - Palu Karet Malet Keramik Marmer Granit,6,12,0,0,47,0,0,65
+HRUH8316,Soft Rubber Mallet (16 oz) INGCO HRUH8316 - Palu Karet Malet Keramik Marmer Granit,6,10,0,0,47,0,0,63
 HSBB12246,"10-Pcs Hacksaw Blade (12"" 24T) INGCO HSBB12246 Refill Mata Gergaji Besi",0,0,0,0,0,0,0,0
-HSCRS812001,"Scissors (8,5 215mm) INGCO Gunting Stainless Steel Serbaguna",0,25,0,0,-355,0,355,-330
-HSDT1408,Test Pen 500VAC (3x140mm) INGCO HSDT1408 Obeng Minus Tespen Testpen Listrik AC 100-500 Volt,0,1053,0,0,-130,0,520,923
-HSG04,Clear Safety Glass INGCO HSG04 Goggles Goggle Google Kacamata Kaca Mata Proyek,0,212,1,-1,-68,0,222,144
-HSG05,Safety Goggles INGCO HSG05 Goggle Google Kacamata Kaca Mata Proyek Tukang Teknisi Gerinda Bubut,14,72,0,11,-15,12,60,94
-HSG06,Dark Safety Glass INGCO HSG06 Goggles Google Goggle Kacamata Kaca Mata Hitam Proyek,1,0,0,2,0,4,12,7
-HSG1405,3-in-1 Staple Gun INGCO HSG1405 - Stapler Staples Steples Tembak Jok Motor,0,186,0,0,-440,0,452,-254
+HSCRS812001,"Scissors (8,5 215mm) INGCO Gunting Stainless Steel Serbaguna",0,24,0,0,0,0,0,24
+HSDT1408,Test Pen 500VAC (3x140mm) INGCO HSDT1408 Obeng Minus Tespen Testpen Listrik AC 100-500 Volt,0,1022,0,0,290,0,100,1312
+HSG04,Clear Safety Glass INGCO HSG04 Goggles Goggle Google Kacamata Kaca Mata Proyek,0,212,1,-1,124,0,30,336
+HSG05,Safety Goggles INGCO HSG05 Goggle Google Kacamata Kaca Mata Proyek Tukang Teknisi Gerinda Bubut,14,72,0,11,45,12,0,154
+HSG06,Dark Safety Glass INGCO HSG06 Goggles Google Goggle Kacamata Kaca Mata Hitam Proyek,1,0,0,2,12,4,0,19
+HSG1405,3-in-1 Staple Gun INGCO HSG1405 - Stapler Staples Steples Tembak Jok Motor,0,184,0,0,0,0,12,184
 HSGT680608,6-Pcs Go-Through Screwdriver Set INGCO HSGT680608 - Obeng Ketok Tembus Magnet Plus Minus,31,37,0,2,26,10,0,106
 HSGTDC180601,6-Pcs Go-Through Screwdriver Set INGCO HSGTDC180601 Obeng Ketok Tembus,41,42,6,2,53,2,0,146
 HSH501502,Full Body Harness INGCO HSH501502 Rompi Safety Harnes Single Big Hook Belt Sabuk Pengaman Fullbody,24,44,0,2,19,17,0,106
-HSJP0210,Straight Jaw Locking Plier (10 Cr-V) INGCO HSJP0210 - Tang  Buaya Jepit Kaliper Catok Chrome Inch,0,0,0,0,3,2,0,5
+HSJP0210,Straight Jaw Locking Plier (10 Cr-V) INGCO HSJP0210 - Tang  Buaya Jepit Kaliper Catok Chrome Inch,0,0,0,0,0,2,0,2
 HSL38040M,Spirit Level (40 cm) INGCO HSL38040M Water Pas Pass Waterpas Waterpass Torpedo Level Leveler,0,0,2,0,10,7,0,19
 HSMT0803,Steel Measuring Tape (3 m) INGCO HSMT0803 - Meteran Ukur Besi 3m Meter,0,12,0,0,0,2,0,14
 HSMT08052,Steel Measuring Tape (5 m) INGCO HSMT08052 Meteran Ukur Besi 5m Meter,0,1,0,0,0,0,0,1
 HSMT0810,Steel Measuring Tape (10 m) INGCO HSMT0810 Meteran Ukur Besi 10m Meter,0,0,0,0,0,0,-3,0
-HSMT081025,Steel Measuring Tape (10 m) INGCO HSMT081025  Meteran Ukur Besi 10m Meter,16,164,0,4,186,0,3,370
-HSMT08316,Steel Measuring Tape (3 m) INGCO HSMT08316 - Meteran Ukur Besi 3m Meter,7,418,8,4,-79,0,317,358
-HSMT08519,Steel Measuring Tape (5 m) INGCO HSMT08519  Meteran Ukur Besi 5m Meter,1,365,0,13,240,0,0,619
+HSMT081025,Steel Measuring Tape (10 m) INGCO HSMT081025  Meteran Ukur Besi 10m Meter,16,163,0,4,186,0,3,369
+HSMT08316,Steel Measuring Tape (3 m) INGCO HSMT08316 - Meteran Ukur Besi 3m Meter,7,418,8,4,209,0,29,646
+HSMT08519,Steel Measuring Tape (5 m) INGCO HSMT08519  Meteran Ukur Besi 5m Meter,1,364,0,13,240,0,0,618
 HSPS12161,"Spark Plug Socket (16mm 1/2"") INGCO HSPS12161 - Kunci Busi Mobil 4 Tak",105,214,0,9,119,8,0,455
 HSPS12211,"Spark Plug Socket (21mm 1/2"") INGCO HSPS12211 - Kunci Busi Motor 2 Tak",79,303,0,9,145,25,0,561
-HSR530255,Combination Square INGCO HSR530255 Penggaris L Sudut Siku Tukang Waterpass Waterpas Water Pas Magnet,14,28,0,3,0,4,10,49
+HSR530255,Combination Square INGCO HSR530255 Penggaris L Sudut Siku Tukang Waterpass Waterpas Water Pas Magnet,14,28,0,3,10,4,0,59
 HSTB12101,"Sliding T-Bar (1/2"") INGCO HSTB12101 - Gagang Stang Kunci Sok Sock Shock Soket Geser",66,181,10,4,73,47,0,381
-HSU025001,Glass Suction Cup (50Kg) INGCO HSU025001 - Kop Kaca Kaki 2 Dua Jaw Leg Vacuum Sucker,0,32,0,0,-28,0,38,4
-HTB02,Tool Box (3-Stack) INGCO HTB02 Kotak Peralatan Alat Perkakas Toolbox Besi Susun,13,12,0,2,3,1,10,31
+HSU025001,Glass Suction Cup (50Kg) INGCO HSU025001 - Kop Kaca Kaki 2 Dua Jaw Leg Vacuum Sucker,0,32,0,0,8,0,2,40
+HTB02,Tool Box (3-Stack) INGCO HTB02 Kotak Peralatan Alat Perkakas Toolbox Besi Susun,13,12,0,2,10,1,0,38
 HTBG281328,"Tools Bag (13"") INGCO HTBG281328 - Tas Perkakas Alat Tukang Peralatan Mekanik Kanvas",0,0,0,0,0,0,0,0
 HTBP02031,Tool Belt (2-Side) INGCO HTBP02031 Sabuk Bag Tas Pinggang Perkakas Alat Tukang Listrik,4,20,0,0,10,3,0,37
-HTC04600,Tile Cutter (600 mm) INGCO HTC04600 Alat Potong Pemotong Keramik Marmer Granit Manual,0,16,0,0,-76,0,77,-60
-HTC04600B,Tile Cutter Blade INGCO HTC04600B Refill Isi Pisau Alat Potong Pemotong Keramik Marmer Granit Manual,0,24,0,0,-156,0,152,-132
-HTC04800AG,Tile Cutter (800mm) INGCO HTC04800AG Alat Potong Keramik Marmer Granit Pisau Manual,0,33,0,0,-14,0,41,19
-HTC04800B,Tile Cutter Blade INGCO HTC04800B - Refill Isi Mata Pisau Potong Keramik Marmer Granit,8,12,0,2,0,4,15,26
+HTC04600,Tile Cutter (600 mm) INGCO HTC04600 Alat Potong Pemotong Keramik Marmer Granit Manual,0,16,0,0,0,0,1,16
+HTC04600B,Tile Cutter Blade INGCO HTC04600B Refill Isi Pisau Alat Potong Pemotong Keramik Marmer Granit Manual,0,24,0,0,-6,0,2,18
+HTC04800AG,Tile Cutter (800mm) INGCO HTC04800AG Alat Potong Keramik Marmer Granit Pisau Manual,0,33,0,0,25,0,1,58
+HTC04800B,Tile Cutter Blade INGCO HTC04800B - Refill Isi Mata Pisau Potong Keramik Marmer Granit,8,12,0,2,15,4,0,41
 HTCS15591,59-Pcs Mechanical Tool Chest Set INGCO HTCS15591 - Paket Box Kotak Alat Perkakas Mekanik,0,0,0,0,0,0,0,0
 HTCS220971,97-Pcs Mechanical Tool Chest Set INGCO HTCS220971 - Paket Box Kotak Alat Perkakas Mekanik,0,0,0,0,0,0,0,0
-HTCS271621,162-Pcs Mechanical Tool Chest Set INGCO HTCS271621 - Paket Box Kotak Alat Perkakas Mekanik,0,4,0,0,0,0,2,4
+HTCS271621,162-Pcs Mechanical Tool Chest Set INGCO HTCS271621 - Paket Box Kotak Alat Perkakas Mekanik,0,3,0,0,2,0,0,5
 HTS2610,"Tin Snip (10"") INGCO HTS2610 Gunting Seng Potong Pemotong Plat Stenlis Stainless Besi",14,67,5,2,101,1,0,190
-HTSN0110S,Aviation Snip (10) INGCO HTSN0110S Gunting Baja Ringan Puring Seng,0,0,0,0,-135,0,135,-135
-HTSN0112S,"Long Aviation Snip (12"") INGCO HTSN0112S - Gunting Plat Seng Baja Ringan Holo Hollow Galvalum",5,61,2,2,14,8,1,92
+HTSN0110S,Aviation Snip (10) INGCO HTSN0110S Gunting Baja Ringan Puring Seng,0,0,0,0,0,0,0,0
+HTSN0112S,"Long Aviation Snip (12"") INGCO HTSN0112S - Gunting Plat Seng Baja Ringan Holo Hollow Galvalum",5,61,2,2,14,7,1,91
 HTSNK0110,"Aviation Snip (10"") INGCO HTSNK0110 - Gunting Seng Potong Baja Ringan Holo Hollow Plat Besi",25,39,3,2,23,18,0,110
-HTSW0808,T-Handle Socket Wrench (8mm Cr-V) INGCO HTSW0808 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,14,28,4,4,3,1,30,54
-HTSW1008,T-Handle Socket Wrench (10mm Cr-V) INGCO HTSW1008 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,6,22,5,4,2,16,20,55
+HTSW0808,T-Handle Socket Wrench (8mm Cr-V) INGCO HTSW0808 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,14,28,4,4,33,1,0,84
+HTSW1008,T-Handle Socket Wrench (10mm Cr-V) INGCO HTSW1008 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,6,22,5,4,22,16,0,75
 HTSW1208,T-Handle Socket Wrench (12mm Cr-V) INGCO HTSW1208 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,36,65,5,4,28,31,0,169
 HTSW1408,T-Handle Socket Wrench (14mm Cr-V) INGCO HTSW1408 Kunci T Sok Soket Shock Anti-Karat Chrome Vanadium,37,130,5,3,28,39,0,242
-HTVT0901,Tool Vest (3 kg) INGCO HTVT0901 - Rompi Safety Proyek Work Apron Tas Alat Perkakas Tukang Teknisi,0,0,0,2,-22,8,40,-12
+HTVT0901,Tool Vest (3 kg) INGCO HTVT0901 - Rompi Safety Proyek Work Apron Tas Alat Perkakas Tukang Teknisi,0,0,0,2,18,8,0,28
 HUK6128,Utility Knife INGCO HUK6128 Pisau Serbaguna Teknisi Tukang Kayu Kulit,0,0,2,2,0,0,0,4
 HUK6138,Folding Knife (SK5) INGCO HUK6138 Pisau Lipat Tukang Gagang Aluminium,0,0,0,0,0,0,0,0
 HUK6236,Folding Knife HUK6236 INGCO Pisau Lipat Tukang Gagang Aluminium,18,80,0,4,97,0,0,199
@@ -671,21 +671,21 @@ HVC01150,Vernier Caliper (150 mm) INGCO HVC01150 Penggaris Sigmat Jangka Sorong,
 HVC01200,Vernier Caliper (200 mm) INGCO HVC01200 - Penggaris Sigmat Jangka Sorong Sikmat Micrometer,16,51,4,2,24,45,3,142
 HWB02250,Wire Brush (250 mm) Kuningan INGCO HWB02250 - Sikat Kawat Golok Pisau Bengkok Sisir,0,0,1,2,15,0,0,18
 HWBSW68,"Wall Board Saw (6""/150mm) INGCO HWBSW68 - Gergaji Gypsum Gipsum GRC",0,0,0,2,10,5,0,17
-HWSP101,Wire Stripper (10) INGCO HWSP101 - Tang Multi Press Crimping Skun Ferrules Kupas Potong Kabel,0,7,1,3,-1,0,12,10
+HWSP101,Wire Stripper (10) INGCO HWSP101 - Tang Multi Press Crimping Skun Ferrules Kupas Potong Kabel,0,5,1,3,11,0,0,20
 HYSW101214,Y-Type Socket Wrench (10-12-14 mm CrV) INGCO HYSW101214 Kunci Sok Y Kaki Tiga,40,147,10,6,34,37,0,274
 HZATN1031,Hose Nozzle (Metal) INGCO HZATN1031 Kepala Selang Semprotan Spray Sprayer Air Steam Cuci Mobil Motor,0,5,0,0,14,10,0,29
 HZATN1101,Round Nozzle Metal INGCO HZATN1101 Kepala Semprotan Air Selang Taman,35,108,2,4,122,25,1,296
-ID6808,"Impact Drill (13 mm, 680W) INGCO ID6808 Bor Tembok Beton 13mm Variable Speed",0,57,9,25,66,0,1,157
+ID6808,"Impact Drill (13 mm, 680W) INGCO ID6808 Bor Tembok Beton 13mm Variable Speed",0,53,9,25,64,0,2,151
 ID6808-SP-15,Rotor for ID6808-SP-15,0,8,0,0,1,0,0,9
 ID6808-SP-16,Stator for ID6808-SP-16,0,8,0,0,1,0,0,9
 ID6808-SP-21,Carbon Brush for ID6808-SP-21,0,7,0,0,3,0,0,10
 ID6808-SP-22,Switch for ID6808-SP-22,0,1,0,0,2,0,0,3
 ID6808-SP-7,Gear for ID6808-SP-7,0,3,0,0,2,0,0,5
 ID6808E-SP-21,Carbon Brush for ID6808E,0,0,0,0,0,0,0,0
-ING-MGT1601,MAG/MIG/TIG Welding Inverter (160A) INGCO ING-MGT1601 Mesin Trafo Las,4,8,0,0,4,0,1,16
+ING-MGT1601,MAG/MIG/TIG Welding Inverter (160A) INGCO ING-MGT1601 Mesin Trafo Las,4,7,0,0,4,0,2,15
 ING-MMA1302,MMA Welding Inverter (130A 30%) INGCO - Mesin Trafo Travo Las Listrik IGBT,0,0,0,0,0,1,1,1
-ING-MMA16015,MMA Welding Inverter (160A 40%) INGCO - Mesin Trafo Travo Las Listrik IGBT Heavy Duty,34,17,2,2,9,10,1,74
-ING-MMA1602,MMA Welding Inverter (160A 30%) INGCO - Mesin Trafo Travo Las Listrik IGBT,15,38,5,2,19,11,1,90
+ING-MMA16015,MMA Welding Inverter (160A 40%) INGCO - Mesin Trafo Travo Las Listrik IGBT Heavy Duty,34,16,2,2,8,10,2,72
+ING-MMA1602,MMA Welding Inverter (160A 30%) INGCO - Mesin Trafo Travo Las Listrik IGBT,15,37,5,2,19,11,2,89
 ITIM01,Cotton Mask (3 Ply) INGCO Merch ITIM01 Masker Kain Premium Tiga Lapis,64,70,0,0,16,0,0,150
 ITIM02,Cotton Mask (3 Ply) INGCO Merch ITIM02 Masker Kain Premium Tiga Lapis,77,57,0,0,12,0,0,146
 ITIT01,T-Shirt Cotton INGCO Merch ITIT01 Kaos Premium Anti Bacterial,0,0,0,0,0,0,0,0
@@ -695,23 +695,23 @@ ITIT01-S,"T-Shirt Cotton (Pliers) INGCO Official Merchandise ITIT01 Kaos Premium
 ITIT01-XL,"T-Shirt Cotton (Pliers) INGCO Official Merchandise ITIT01 Kaos Premium Anti Bacterial - Black, XL",0,0,0,0,0,0,0,0
 ITIT02,T-Shirt Cotton INGCO Merch ITIT02 Kaos Premium Anti Bacterial,0,0,0,0,0,0,0,0
 ITIT02-L,"T-Shirt Cotton (Drill) INGCO Official Merchandise ITIT02 Kaos Premium Anti Bacterial - Black, L",0,0,0,0,1,0,0,1
-ITIT02-M,"T-Shirt Cotton (Drill) INGCO Official Merchandise ITIT02 Kaos Premium Anti Bacterial - Black, M",0,31,0,0,16,0,0,47
+ITIT02-M,"T-Shirt Cotton (Drill) INGCO Official Merchandise ITIT02 Kaos Premium Anti Bacterial - Black, M",0,34,0,0,16,0,0,50
 ITIT02-S,"T-Shirt Cotton (Drill) INGCO Official Merchandise ITIT02 Kaos Premium Anti Bacterial - Black, S",1,8,0,0,0,0,0,9
 ITIT02-XL,"T-Shirt Cotton (Drill) INGCO Official Merchandise ITIT02 Kaos Premium Anti Bacterial - Black, XL",0,0,0,0,0,0,0,0
 ITITB01,Tote Bag (Baby Canvas) INGCO Merch ITITB01 Totebag Premium Tas Jinjing Belanja,91,13,0,0,7,0,0,111
 JBT15111C,15Pcs Jig Saw Blade (Wood 8TPI) INGCO JBT15111C Mata Jigsaw Kayu 8 TPI,7,0,0,2,10,37,0,56
-JS57028,Jig Saw (570 W) INGCO JS57028 - Mesin Jigsaw Gergaji Triplek Ukir Kayu,2,1,0,2,6,0,1,11
+JS57028,Jig Saw (570 W) INGCO JS57028 - Mesin Jigsaw Gergaji Triplek Ukir Kayu,2,0,0,2,5,0,2,9
 JS57028-SP-21,Rotor for JS57028-SP-21,0,1,0,0,1,0,0,2
 JS57028-SP-23,Stator for JS57028-SP-23,0,1,0,0,0,0,0,1
 JS57028-SP-25,Switch for JS57028-SP-25,0,3,0,0,2,0,0,5
 JS57028-SP-36,Carbon Brush for JS57028-SP-36,0,7,0,0,3,0,0,10
-JS80028,Jig Saw INDUSTRIAL (800W) INGCO JS80028 - Mesin Gergaji Triplek Ukir Industri Kayu Furniture,20,79,0,0,27,26,2,152
+JS80028,Jig Saw INDUSTRIAL (800W) INGCO JS80028 - Mesin Gergaji Triplek Ukir Industri Kayu Furniture,20,78,0,0,27,26,2,151
 JS80028-SP-15,Gear for JS80028-SP-15,0,3,0,0,2,0,0,5
 JS80028-SP-26,Rotor for JS80028-SP-26,0,2,0,0,1,0,0,3
 JS80028-SP-29,Brush for JS80028-SP-29,0,7,0,0,3,0,0,10
 JS80028-SP-33,Stator for JS80028-SP-33,0,0,0,0,1,0,0,1
 JS80028-SP-47,Switch for JS80028-SP-47,0,3,0,0,2,0,0,5
-MC14008,Marble Cutter (110mm) INGCO MC14008 Mesin Potong Keramik Granit Marmer,0,26,0,0,-6,0,25,20
+MC14008,Marble Cutter (110mm) INGCO MC14008 Mesin Potong Keramik Granit Marmer,0,24,0,0,18,0,3,42
 MC14008-SP-10,Switch for MC14008-SP-10,0,3,0,0,2,0,0,5
 MC14008-SP-17,Brush for  MC14008-SP-17,0,7,0,0,3,0,0,10
 MC14008-SP-25,Rotor for MC14008-SP-25,0,0,0,0,1,0,0,1
@@ -720,54 +720,54 @@ MC14008-SP-30/38,Small gear for MC14008-SP-30/38,0,3,0,0,2,0,0,5
 MCD121001,"25-Pcs Cutting Disc (4"") INGCO MCD121001 Mata Batu Potong Gerinda Gurinda",0,0,1,1,0,5,0,7
 MCD121251,"25-Pcs Cutting Disc (5"") INGCO MCD121251 Mata Batu Potong Gerinda Gurinda",0,0,0,1,4,1,0,6
 MCD301802,"25-Pcs Cutting Disc (7"") INGCO MCD301802 Mata Batu Potong Gerinda Gurinda",0,3,0,1,3,2,0,9
-MCD302302,"25-Pcs Cutting Disc (9"") INGCO MCD302302 Mata Batu Potong Gerinda Gurinda",4,0,0,1,0,2,4,7
+MCD302302,"25-Pcs Cutting Disc (9"") INGCO MCD302302 Mata Batu Potong Gerinda Gurinda",4,0,0,1,4,2,0,11
 MCD303551,"5-Pcs Cutting Disc (14"") INGCO MCD303551 Mata Batu Potong Gerinda Gurinda",4,19,0,2,15,4,0,44
 MG1309,Mini Die Grinder (52-in-1) INGCO MG1309 - Tuner Bor Gerinda Ukir Kayu,0,0,0,0,0,0,2,0
 MG1309-SP-10,Carbon bursh for MG1309-SP-10,0,7,0,0,3,0,0,10
 MG1309-SP-12,Switch for MG1309-SP-12,0,2,0,0,2,0,0,4
 MG1309-SP-5,Stator for MG1309-SP-5,0,3,0,0,0,0,0,3
 MG1309-SP-8,Rotor for MG1309-SP-8,0,0,0,0,1,0,0,1
-MG13328,Mini Die Grinder (109-in-1) INGCO MG13328 - Tuner Bor Gerinda Ukir Kayu,20,73,0,2,54,0,0,149
+MG13328,Mini Die Grinder (109-in-1) INGCO MG13328 - Tuner Bor Gerinda Ukir Kayu,20,72,0,2,45,0,1,139
 MG13328-SP-6,Carbon Brush for MG13328,0,0,0,0,0,0,0,0
 MGD601151,"Grinding Disc 4.5"" INGCO MGD601151 - Mata Batu Gerinda Asah Poles 4.5 Inch",49,96,10,9,129,36,0,329
 MGD601251,"Grinding Disc (5"") INGCO MGD601251 - Mata Batu Gerinda Asah Poles 5 Inch Inci",0,0,1,0,1,0,0,2
 MGD601801,"Grinding Disc (7"") INGCO MGD601801 - Mata Batu Gerinda Asah Poles 7 Inch Inci",54,277,20,9,149,37,0,546
 MGD602301,"Grinding Disc (9"") INGCO MGD602301 - Mata Batu Gerinda Asah Poles 9 Inch Inci",31,57,5,4,64,19,0,180
 MPP4501,Hand Pump (50cm) INGCO MPP4501 - Pompa Angin Manual Tangan Ban Sepeda Bola Mainan Berdiri,29,69,3,2,17,25,0,145
-MPP5511,Foot Pump (12cm) INGCO MPP5511 - Pompa Angin Manual Kaki Ban Mobil Motor Sepeda Bola Portabel,0,63,0,0,7,3,26,73
+MPP5511,Foot Pump (12cm) INGCO MPP5511 - Pompa Angin Manual Kaki Ban Mobil Motor Sepeda Bola Portabel,0,61,0,0,27,3,6,91
 MT2S18002,2-in-1 Mitre  Table Saw (12 Inch) INGCO MT2S18002 Sliding Combination,3,5,0,0,5,0,1,13
 MXLI2001,P20S Cordless Mixer (M14) INGCO MXLI2001 - Mesin Pengaduk Mix Aduk Cat Semen Mortar Baterai,4,2,0,0,2,9,1,17
 MXLI2001-SP-1,Connector for MXLI2001-SP,0,0,0,0,0,0,0,0
 PBS12001,"Belt Sander (4""/100x610mm) INGCO PBS12001 Mesin Amplas Sabuk Tank Inch",8,14,0,0,5,2,1,29
-PBX1701,Tool Box Plastic (17) INGCO PBX1701 - Kotak Alat Peralatan Perkakas Plastik PP Inch,0,120,0,0,-40,0,98,80
-PDB13008,"Demolition Jack Hammer (6 Kg, 20J) INGCO PDB13008 - Mesin Bobok Tembok Beton",9,4,0,2,7,0,0,22
+PBX1701,Tool Box Plastic (17) INGCO PBX1701 - Kotak Alat Peralatan Perkakas Plastik PP Inch,0,119,0,0,48,0,10,167
+PDB13008,"Demolition Jack Hammer (6 Kg, 20J) INGCO PDB13008 - Mesin Bobok Tembok Beton",9,2,0,2,7,0,2,20
 PDB13008-SP-38,Gear for PDB13008-SP-38,0,5,0,0,0,0,0,5
 PDB13008-SP-48,Rotor for PDB13008-SP-48,0,0,0,0,0,0,0,0
 PDB13008-SP-52,Stator for PDB13008-SP-52,0,0,0,0,1,0,0,1
 PDB13008-SP-59,Carbon Brush for PDB13008-SP-59,0,2,0,0,0,0,0,2
 PDB13008-SP-69,Switch for PDB13008-SP-69,0,3,0,0,2,0,0,5
-PDB15006,"Demolition Jack Hammer (10 Kg, 25J) INGCO PDB15006 - Mesin Bobok Beton",3,7,0,1,8,0,1,19
+PDB15006,"Demolition Jack Hammer (10 Kg, 25J) INGCO PDB15006 - Mesin Bobok Beton",3,6,0,1,8,0,2,18
 PDB15006-SP-101,Speed Adjuster for PDB15006-SP-101,0,0,0,0,1,0,0,1
 PDB15006-SP-102,Switch Subassembly for PDB15006-SP-102,0,3,0,0,2,0,0,5
 PDB15006-SP-62,Stator 220 - 240 V for PDB15006-SP-62,0,0,0,0,1,0,0,1
 PDB15006-SP-69,Carbon Brush for PDB15006-SP-69,0,7,0,0,3,0,0,10
 PDB15006-SP-72,Rotor 220-240V for PDB15006-SP-72,0,0,0,0,1,0,0,1
-PDB17008,"Demolition Jack Hammer (16 Kg, 45J) INGCO PDB17008 - Mesin Bobok Beton Tembok Batu Aspal Jalan",0,10,0,0,-1,0,7,9
+PDB17008,"Demolition Jack Hammer (16 Kg, 45J) INGCO PDB17008 - Mesin Bobok Beton Tembok Batu Aspal Jalan",0,8,0,0,5,0,3,13
 PDB17008-SP-23,Ring For PDB17008-SP-23,0,0,0,0,0,0,0,0
 PDB17008-SP-46,Bearing for PDB17008-SP-46,0,0,0,0,0,0,0,0
 PDB17008-SP-47,Gear of PDB17008-SP-47,0,0,0,0,0,0,0,0
 PDB17008-SP-53,Rotor for PDB17008-SP-53,0,0,0,0,0,0,0,0
 PDB17008-SP-69/71,Brush Cover for PDB17008-SP-69/71,0,0,0,0,0,0,0,0
 PDB17008-SP-70,Brush for PDB17008-SP-70,0,9,0,0,0,0,0,9
-PDB22001,"Demolition Jack Hammer (30 Kg, 75J) INGCO PDB22001 - Mesin Bobok Beton Tembok Batu Aspal Jalan",0,1,0,0,0,0,1,1
+PDB22001,"Demolition Jack Hammer (30 Kg, 75J) INGCO PDB22001 - Mesin Bobok Beton Tembok Batu Aspal Jalan",0,0,0,0,0,0,2,0
 PDB22001-SP-18,Stator for PDB22001,0,0,0,0,0,0,0,0
 PDB22001-SP-21,Rotor for PDB22001,0,0,0,0,0,0,0,0
 PDB22001-SP-6,Carbon Brush for PDB22001,0,0,0,0,0,0,0,0
 PDB22001-SP-96,Switch for PDB22001,0,0,0,0,0,0,0,0
-PDG4003,Die Grinder (6 mm) INGCO PDG4003 - Mesin Gerinda Gurinda Botol Dadu Lurus Variable Speed,15,40,0,2,23,2,0,82
+PDG4003,Die Grinder (6 mm) INGCO PDG4003 - Mesin Gerinda Gurinda Botol Dadu Lurus Variable Speed,15,38,0,2,23,2,2,80
 PL10508,Electric Planer (1050W) INGCO PL10508 Mesin Penyerut Serut Ketam Kayu Listrik,0,0,0,0,0,3,1,3
-PL7508,Electric Planer (750W) INGCO PL7508 Mesin Serut ketam Kayu listrik,0,17,0,0,0,0,21,17
-PLM5002,"Laminate Trimmer (6mm 1/4"") INGCO PLM5002 Mini Profil Router Profiler Edge Profiling Kayu",4,61,0,2,32,0,0,99
+PL7508,Electric Planer (750W) INGCO PL7508 Mesin Serut ketam Kayu listrik,0,16,0,0,20,0,2,36
+PLM5002,"Laminate Trimmer (6mm 1/4"") INGCO PLM5002 Mini Profil Router Profiler Edge Profiling Kayu",4,59,0,2,32,0,2,97
 PLM5002-SP-10,Stator for PLM5002-SP-10,0,2,0,0,1,0,0,3
 PLM5002-SP-18,Rotor for PLM5002-SP-18,0,0,0,0,1,0,0,1
 PLM5002-SP-4,Switch for PLM5002-SP-4,0,7,0,0,3,0,0,10
@@ -775,59 +775,59 @@ PLM5002-SP-40,Safe Cover for PLM5002,0,0,0,0,0,0,0,0
 PLM5002-SP-41,base for PLM5002,0,0,0,0,0,0,0,0
 PLM5002-SP-6,Carbon brush for PLM5002-SP-6,0,6,0,0,3,0,0,9
 PMAU01,Beach umbrella,0,5,0,0,0,0,0,5
-PMAU02,Straight umbrella,0,47,0,0,0,0,36,47
+PMAU02,Straight umbrella,0,50,0,0,1,0,35,51
 PMCA05,Cap,0,103,0,0,48,0,0,151
 PMGF02,Feather banner,0,36,0,0,0,0,0,36
-PMMST01,Mini stand,0,57,0,0,0,0,43,57
-PMNB03,Note Book,0,221,0,0,9,0,200,230
+PMMST01,Mini stand,0,57,0,0,40,0,3,97
+PMNB03,Note Book,0,221,0,0,209,0,0,430
 PMPEN01,Ball Pen,0,830,0,0,200,0,0,1030
-PMST01A,Advertisement board of INGCO stand,0,89,0,8,4,0,74,101
+PMST01A,Advertisement board of INGCO stand,0,89,0,8,74,0,4,171
 PMST01B,Shelf and Bracket INGCO,0,35,0,24,0,0,12,59
-PMST01C,Backboard of INGCO Stand,0,522,0,48,0,0,444,570
-PMST01D,Baseboard of INGCO Stand,0,87,0,8,0,0,74,95
-PMST01Z,Pillar of INGCO Stand,0,240,0,12,32,0,146,284
-PMSTSCZ01,Top Cover and Columns of Short Stand INGCO,0,54,0,0,5,0,36,59
-PMTE01,Tent of INGCO,0,0,0,0,0,0,1,0
+PMST01C,Backboard of INGCO Stand,0,522,0,48,420,0,24,990
+PMST01D,Baseboard of INGCO Stand,0,87,0,8,70,0,4,165
+PMST01Z,Pillar of INGCO Stand,0,240,0,12,172,0,6,424
+PMSTSCZ01,Top Cover and Columns of Short Stand INGCO,0,54,0,0,41,0,0,95
+PMTE01,Tent of INGCO,0,0,0,0,1,0,0,1
 PS2408,Palm Sander (110×100 mm) INGCO PS2408 Mesin Amplas Kotak Listrik 240W,1,0,0,0,0,0,1,1
 PS2408-SP-12,Stator for PS2408-SP-12,0,0,0,0,1,0,0,1
 PS2408-SP-14,Rotor for PS2408-SP-14,0,0,0,0,1,0,0,1
 PS2408-SP-16,Carbon brush for PS2408-SP-16,0,7,0,0,3,0,0,10
 PS2408-SP-20,Switch for PS2408-SP-20,0,3,0,0,2,0,0,5
-RGH9028,"Rotary Hammer Drill (800 W, 2.5J) INGCO RGH9028 Bor Bobok Tembok Beton",6,43,0,1,-20,0,51,30
+RGH9028,"Rotary Hammer Drill (800 W, 2.5J) INGCO RGH9028 Bor Bobok Tembok Beton",6,41,0,1,28,0,5,76
 RGH9028-SP-29,Model Selector Knob for RGH9028 SP-29,0,1,0,0,0,0,0,1
 RGH9028-SP-64,33 Dens Slanting Gear for RGH9028-SP-64,0,3,0,0,2,0,0,5
 RGH9028-SP-68,Rotor for RGH9028-SP-68,0,1,0,0,0,0,0,1
 RGH9028-SP-73,Stator for RGH9028-SP-73,0,1,0,0,1,0,0,2
 RGH9028-SP-80,Carbon Brush for RGH9028-SP-80,0,1,0,0,0,0,0,1
 RGH9028-SP-82,Switch for RGH9028-SP-82,0,3,0,0,0,0,0,3
-RS3208,"Rotary Orbital Sander (5"") INGCO RS3208 - Mesin Amplas Bulat 5 Inch",6,6,0,2,0,0,11,14
+RS3208,"Rotary Orbital Sander (5"") INGCO RS3208 - Mesin Amplas Bulat 5 Inch",6,4,0,2,10,0,3,22
 RS3208-SP-15,Rotor Assembly for RS3208-SP-15,0,0,0,0,1,0,0,1
 RS3208-SP-22,Stator for RS3208-SP-22,0,0,0,0,1,0,0,1
 RS3208-SP-29,switch for RS3208-SP-29,0,3,0,0,2,0,0,5
 RS3208-SP-33,carbon brush for RS3208-SP-33,0,7,0,0,3,0,0,10
-RS4508,"Rotary Orbital Sander (6"") INGCO RS4508 - Mesin Amplas Bulat 6 Inch",2,11,0,2,24,1,1,40
+RS4508,"Rotary Orbital Sander (6"") INGCO RS4508 - Mesin Amplas Bulat 6 Inch",2,10,0,2,24,1,2,39
 RS4508-SP-10,Main switch for RS4508-SP-10,0,3,0,0,2,0,0,5
 RS4508-SP-17,Stator for RS4508-SP-17,0,0,0,0,1,0,0,1
 RS4508-SP-19,Rotor for RS4508-SP-19,0,0,0,0,1,0,0,1
 RS4508-SP-9,Carbon Brush for RS4508-SP-9,0,7,0,0,3,0,0,10
-RS8008,Reciprocating Saw (750 W) INGCO RS8008 Gergaji Potong Pipa Sabre Saber Listrik,15,17,0,2,4,7,0,45
+RS8008,Reciprocating Saw (750 W) INGCO RS8008 Gergaji Potong Pipa Sabre Saber Listrik,15,15,0,2,4,7,2,43
 RS8008-SP-14,Stator for RS8008-SP-14,0,2,0,0,1,0,0,3
 RS8008-SP-16,Rotor for RS8008-SP-16,0,2,0,0,1,0,0,3
 RS8008-SP-4,Switch for RS8008-SP-4,0,3,0,0,2,0,0,5
 RS8008-SP-7,Brush for RS8008-SP-7,0,7,0,0,3,0,0,10
-RT12008,"Electric Wood Router (1/4"" 0-30mm) INGCO RT12008 - Mesin Profil Profiling Profiler Kayu",10,33,0,2,26,0,0,71
+RT12008,"Electric Wood Router (1/4"" 0-30mm) INGCO RT12008 - Mesin Profil Profiling Profiler Kayu",10,30,0,2,26,0,2,68
 RT12008-SP-38,Rotor for RT12008-SP-38,0,0,0,0,1,0,0,1
 RT12008-SP-42,Stator for RT12008-SP-42,0,0,0,0,1,0,0,1
 RT12008-SP-47,Carbon Brush for RT12008-SP-47,0,7,0,0,3,0,0,10
 RT12008-SP-50,Switch for RT12008-SP-50,0,7,0,0,3,0,0,10
-RT22008,"Electric Wood Router (1/2"" 0-60mm) INGCO RT22008 - Mesin Profil Profiler Profiling Kayu",13,3,0,2,0,4,16,22
-SDB21HL133,10-Pcs Screwdriver Bit (PH2+SL6 65mm) INGCO SDB21HL133 Paket Mata Bor Obeng Plus Minus,165,234,4,6,187,11,0,607
-SDB21PH233,10-Pcs Screwdriver Bit (Double-End PH2) INGCO SDB21PH233 Mata Obeng Plus,0,0,0,0,-6,-5,0,-11
+RT22008,"Electric Wood Router (1/2"" 0-60mm) INGCO RT22008 - Mesin Profil Profiler Profiling Kayu",13,1,0,2,16,4,2,36
+SDB21HL133,10-Pcs Screwdriver Bit (PH2+SL6 65mm) INGCO SDB21HL133 Paket Mata Bor Obeng Plus Minus,165,232,4,6,187,11,0,605
+SDB21PH233,10-Pcs Screwdriver Bit (Double-End PH2) INGCO SDB21PH233 Mata Obeng Plus,0,0,0,0,0,-10,0,-10
 SDBIM11PH263,10-Pcs Impact Screwdriver Bit (PH2 150mm) INGCO SDBIM11PH263 Mata Obeng Plus Panjang Magnet Magnetic,0,1,0,0,0,0,0,1
-SDBIM21HL133,10-Pcs Impact Screwdriver Bit (PH2+SL6) INGCO SDBIM21HL133 Mata Bor Obeng Getok Ketok Magnet,29,0,3,0,10,31,0,73
+SDBIM21HL133,10-Pcs Impact Screwdriver Bit (PH2+SL6) INGCO SDBIM21HL133 Mata Bor Obeng Getok Ketok Magnet,29,0,3,0,5,31,0,68
 SDBIM21PH233,10-Pcs Impact Screwdriver Bit (2×PH2 65mm) INGCO SDBIM21PH233 Paket Mata Bor Obeng Plus,0,0,0,0,0,0,0,0
-SI0248,Solder Iron (40 W) INGCO SI0248 - Mesin Alat Patri Listrik AC Timah Panas,35,8,5,2,2,6,15,58
-SPG3508,Spray Paint Gun (800cc) INGCO SPG3508 - Cat Semprot Bodi Body Mobil Listrik,0,85,0,0,-32,0,81,53
+SI0248,Solder Iron (40 W) INGCO SI0248 - Mesin Alat Patri Listrik AC Timah Panas,35,6,5,2,17,6,2,71
+SPG3508,Spray Paint Gun (800cc) INGCO SPG3508 - Cat Semprot Bodi Body Mobil Listrik,0,84,0,0,32,0,18,116
 SPG3508-SP-32,Plastic Pots for SPG3508-SP-32,0,0,0,0,2,0,0,2
 SPG3508-SP-5,Motor for SPG3508-SP-5,0,3,0,0,0,0,0,3
 SPG3508-SP-6,power swtich for SPG3508-SP-6,0,7,0,0,3,0,0,10
@@ -837,17 +837,17 @@ SPG5008-2-SP-2,power switch for SPG5008-2-SP-2,0,7,0,0,3,0,0,10
 SPG5008-2-SP-36,O Ring for SPG5008,0,0,0,0,0,0,0,0
 SPG5008-2-SP-47,Plastic Pot Ring for SPG5008-2,0,1,0,0,0,0,0,1
 SPG5008-2-SP-5,Motor for SPG5008-2-SP-5,0,0,0,0,1,0,0,1
-SSB644D,2-Pcs Sabre Saw Blade (Wood 6TPI) INGCO SSB644D - Mata Pisau Gergaji Kayu Saber Reciprocating Saw,1,95,0,-3,-105,0,155,-12
-SSB922EF,2-Pcs Sabre Saw Blade (Metal 18TPI) INGCO SSB922EF Mata Gergaji Kayu Saber,1,36,0,11,-5,0,50,43
+SSB644D,2-Pcs Sabre Saw Blade (Wood 6TPI) INGCO SSB644D - Mata Pisau Gergaji Kayu Saber Reciprocating Saw,1,95,0,-3,40,0,10,133
+SSB922EF,2-Pcs Sabre Saw Blade (Metal 18TPI) INGCO SSB922EF Mata Gergaji Kayu Saber,1,36,0,11,45,0,0,93
 STS0208,Staples Tembak (8 mm) INGCO STS0208 Refill Isi Steples Stapler HSG1405,0,898,0,17,368,0,0,1283
-STS0210,Staples Tembak (10mm) INGCO STS0210 Refill Isi Ulang Steples Stapler Hekter Tembak Jok HSG1405,0,809,0,19,170,0,0,998
-STS0212,Staples Tembak (12mm) INGCO STS0212 Refill Isi Ulang Steples Stapler Hekter Tembak Jok HSG1405,-1,584,0,14,577,0,1,1174
+STS0210,Staples Tembak (10mm) INGCO STS0210 Refill Isi Ulang Steples Stapler Hekter Tembak Jok HSG1405,0,807,0,19,150,0,0,976
+STS0212,Staples Tembak (12mm) INGCO STS0212 Refill Isi Ulang Steples Stapler Hekter Tembak Jok HSG1405,-1,582,0,14,577,0,1,1172
 STS0310,Brad Nail (F10) INGCO STS0310 Refill Isi Ulang Paku Tembak T F 10 mm HSG1405,0,0,0,0,22,10,0,32
 STS0412,U-Staples (10 mm) INGCO STS0412 - Refill Isi Ulang Steples Stapler Hekter Tembak Jok HSG1405,248,1992,0,19,205,19,0,2483
 TS15007,"Table Saw (10"") INGCO TS15007 - Mesin Gergaji Meja Potong Pemotong Kayu Inch Inci",0,0,0,0,0,0,0,0
 TS15007-SP-146,Brush for TS15007-SP-146,0,6,0,0,3,0,0,9
 TS15008,"Folding Table Saw (10"") INGCO TS15008 Mesin Gergaji Meja Potong Kayu Lipat Portable",0,0,0,0,0,0,0,0
-TSB114041,TCT Saw Blade (5 1/2/140mm 24T) INGCO TSB114041 Mata Gergaji Serkel Kayu Circular Inch,0,9,0,0,-56,0,75,-47
+TSB114041,TCT Saw Blade (5 1/2/140mm 24T) INGCO TSB114041 Mata Gergaji Serkel Kayu Circular Inch,0,9,0,0,19,0,0,28
 TSB116511,"TCT Saw Blade (6½"" 24T) INGCO TSB116511 Mata Gergaji Serkel Circular",34,78,0,2,43,7,0,164
 TSB118513,"TCT Saw Blade (7 1/4""/185mm 60T) INGCO TSB118513 Mata Gergaji Serkel Kayu Circular Inch",0,0,0,2,0,0,0,2
 TSB118515,"TCT Saw Blade (7 1/4""/185mm 40T) INGCO TSB118515 Mata Gergaji Serkel Kayu Circular Inch Inci",46,37,0,2,16,4,0,105
@@ -860,23 +860,23 @@ TSB3254210,"Aluminium TCT Saw Blade (10"") INGCO TSB3254210 Mata Potong Miter Mi
 TSB3305212,"Aluminium TCT Saw Blade (12"") INGCO TSB3305212 Mata Gergaji Miter Mitre Mitresaw Potong Sudut",9,41,0,3,4,9,0,66
 TSB51852153,"3-Pcs TCT Saw Blades (7 1/4""/185mm) INGCO TSB51852153 Mata Gergaji Serkel Circular Inch",20,73,0,2,77,0,0,172
 VC13301,Vacuum Cleaner (Wet/Dry 30L) INGCO VC13301 - Penghisap Penyedot Debu,27,13,1,1,21,9,2,72
-WAH3008,Electrode Holder (300A) INGCO WAH3008 - Stang Tang Gagang Las Elektroda MMA Listrik,0,0,9,0,-1,0,0,8
+WAH3008,Electrode Holder (300A) INGCO WAH3008 - Stang Tang Gagang Las Elektroda MMA Listrik,0,0,9,0,0,0,0,9
 WB10752,"Wire Cup Brush (Gerinda 3"") Kuningan INGCO WB10752 Sikat Kawat Mangkok",112,18,8,3,15,20,0,176
 WB20752,"Wire Braid Cup Brush (Gerinda 3"") Besi INGCO WB20752 Sikat Kawat Kepang Mangkok",58,204,1,14,99,30,0,406
 WB30505,"Nylon Cup Brush (Bor 2"") INGCO WB30505 - Sikat Mangkok Abrasive Plastik Nilon",20,0,5,2,34,20,0,81
-WB30751,"Wire Cup Brush (Bor 3"") Kuningan INGCO WB30751 Sikat Kawat Gerinda Mangkok",0,36,1,3,46,-1,0,85
+WB30751,"Wire Cup Brush (Bor 3"") Kuningan INGCO WB30751 Sikat Kawat Gerinda Mangkok",0,26,1,3,46,-1,0,75
 WB30755,"Nylon Cup Brush (Bor 3"") INGCO WB30755 - Sikat Nilon Mangkok Abrasive Plastik",28,0,0,0,16,18,0,62
 WB40501,"Wire Circular Brush (Bor 2"") Kuningan INGCO WB40501 - Sikat Kawat Piring",0,0,0,0,0,0,0,0
-WB40751,"Wire Circular Brush (Bor 3"") Kuningan INGCO WB40751 - Sikat Kawat Piring",30,9,2,0,44,0,0,85
+WB40751,"Wire Circular Brush (Bor 3"") Kuningan INGCO WB40751 - Sikat Kawat Piring",30,0,2,0,44,0,0,76
 WB40755,"Nylon Circular Brush (Bor 3"") INGCO WB40755 Sikat Piring Abrasif Plastik Nilon",40,42,8,3,36,26,0,155
 WB41001,"Wire Circular Brush (Bor 4"") Kuningan INGCO WB41001 - Sikat Kawat Piring",0,0,0,1,31,22,0,54
 WB41005,"Nylon Circular Brush (Bor 4"") INGCO WB41005 - Sikat Nilon Piring Abrasive",48,27,1,2,29,5,0,112
 WB70241,"Wire Cup Brush Mini (Bor 1"") Kuningan INGCO WB70241 Sikat Kawat Die Grinder Dremel",18,0,0,2,203,0,0,223
-WLC15008,Wall Chaser (1500W) INGCO WLC15008 Mesin Bobok Pahat Ukir Jalur Pipa Listrik Air Tembok,5,16,0,1,14,0,1,36
-WLC15008-SP-49,Armature for WLC15008,0,-1,0,0,0,0,0,-1
+WLC15008,Wall Chaser (1500W) INGCO WLC15008 Mesin Bobok Pahat Ukir Jalur Pipa Listrik Air Tembok,5,14,0,1,13,0,2,33
+WLC15008-SP-49,Armature for WLC15008,0,0,0,0,0,0,0,0
 WLC15008-SP-58,Carbon Brush for WLC15008,0,0,0,0,0,0,0,0
 WLC30001,Wall Chaser (3000W) INGCO WLC30001 Mesin Bobok Jalur Pipa Kabel Tembok,3,23,0,0,8,5,0,39
-WM101,Welding Mask (100% New PP Plastic) INGCO WM101 Topeng Kedok Helm Pengelasan Pelindung Tukang Las,2,1,0,2,-2,0,20,3
+WM101,Welding Mask (100% New PP Plastic) INGCO WM101 Topeng Kedok Helm Pengelasan Pelindung Tukang Las,2,1,0,2,18,0,0,23
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
